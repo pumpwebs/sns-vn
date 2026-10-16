@@ -63,6 +63,318 @@ Theo thông tin công bố của Sinoseal Holding, đây là doanh nghiệp niê
 - Bảo trì, đào tạo và hỗ trợ kỹ thuật tại chỗ.
 ## Cam kết
 Chúng tôi lấy độ tin cậy của thiết bị và sự an toàn của khách hàng làm trọng tâm. Hãy liên hệ SNS-VN để được tư vấn và báo giá.`;
+const SIMS=`Hệ thống giám sát thông minh phớt (SIMS, Seal Intelligent Monitoring System) là nhóm giải pháp thu thập và phân tích dữ liệu vận hành của phớt cơ khí để cảnh báo sớm nguy cơ hỏng hóc, giúp chuyển từ bảo trì theo lịch cố định sang bảo trì theo tình trạng thực tế.
+## Hệ thống giám sát phớt theo dõi những gì
+Trong lĩnh vực giám sát phớt cơ khí, các thông số thường được đo gồm áp suất trước và sau phớt, nhiệt độ vòng phớt, tốc độ quay, lưu lượng và nhiệt độ chất lỏng chặn, mức rò rỉ, độ rung, cũng như tín hiệu từ mặt phớt như phát xạ âm hoặc dịch chuyển vòng phớt. Các cảm biến gửi tín hiệu về bộ thu thập dữ liệu rồi truyền lên hệ thống điều khiển hoặc phần mềm phân tích.
+## Lợi ích khi dùng hệ thống giám sát
+- Phát hiện sớm bất thường như mất màng chất lỏng, quá nhiệt hoặc rò rỉ tăng dần.
+- Giảm dừng máy ngoài kế hoạch và chi phí sửa chữa khẩn cấp.
+- Ghi lại dữ liệu để phân tích nguyên nhân hỏng phớt.
+- Hỗ trợ tuân thủ yêu cầu về phát thải và an toàn.
+## Ứng dụng
+Hệ thống phù hợp với bơm và máy nén quan trọng trong lọc hóa dầu, hóa chất, đường ống và điện lực, nhất là thiết bị khó tiếp cận hoặc môi chất nguy hiểm.
+## Tư vấn
+Thông số chi tiết của từng hệ thống phụ thuộc vào cấu hình và nhà sản xuất. Hãy liên hệ SNS-VN để được tư vấn giải pháp giám sát phù hợp với thiết bị của bạn.`;
+const NW2=[
+['john-crane-50-nam-phot-khi-kho','g','John Crane kỷ niệm 50 năm đổi mới công nghệ phớt khí khô','John Crane Marks 50 Years of Dry Gas Seal Innovation',`Tháng 1/2026, John Crane, doanh nghiệp thuộc Smiths Group plc, thông báo kỷ niệm 50 năm kể từ bước đột phá làm thay đổi cách làm kín máy nén khí. Cột mốc này cho thấy vì sao phớt khí khô đã trở thành lựa chọn phổ biến cho máy nén ly tâm trong dầu khí và hóa dầu.
+## Điều gì làm phớt khí khô khác biệt
+Thay vì dùng dầu làm kín như hệ thống truyền thống, phớt khí khô dùng một màng khí cực mỏng giữa hai mặt phớt. Các rãnh xoắn trên mặt quay tạo lực nâng nên hai mặt không chạm nhau khi máy chạy.
+- Ma sát thấp, ít mài mòn.
+- Lượng rò rỉ nhỏ và dễ kiểm soát.
+- Không cần hệ thống dầu làm kín phức tạp.
+## Ý nghĩa với người dùng
+Năm mươi năm phát triển cho thấy công nghệ đã chín muồi nhưng vẫn tiếp tục được cải tiến để đáp ứng yêu cầu giảm phát thải và tăng độ tin cậy. Khi nâng cấp máy nén cũ từ phớt dầu sang phớt khí khô, cần đánh giá kỹ chất lượng khí cấp, hệ thống hỗ trợ và điều kiện vận hành.
+## Nguồn tham khảo
+World Pipelines (22/01/2026). Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['john-crane-type-8628vl-duong-ong-ethane','g','Phớt Type 8628VL của John Crane cho đường ống ethane và ethylene','John Crane Type 8628VL Seal for Ethane and Ethylene Pipelines',`John Crane giới thiệu phớt cơ khí Type 8628VL dành cho các đường ống dẫn ethane và ethylene, nơi áp suất và nhiệt độ thay đổi liên tục trong quá trình vận chuyển.
+## Thách thức của đường ống ethane
+Lưu chất trong đường ống có thể chuyển pha giữa lỏng, hơi và trạng thái siêu tới hạn. Sự đổi pha làm màng làm kín khó ổn định và thường gây hỏng các phớt thông thường.
+## Giải pháp của Type 8628VL
+Theo nhà sản xuất, phớt dùng công nghệ rãnh xoắn không tiếp xúc với hai cặp mặt phớt bố trí kiểu tandem. Giám đốc công nghệ của hãng nhấn mạnh rằng, khác với phớt lai hoặc phớt tiếp xúc, thiết kế này giữ được trạng thái không tiếp xúc ngay cả khi lưu chất đổi pha nhanh. Hãng cho biết giải pháp giúp tăng độ tin cậy, hiệu quả vận hành và khả năng tuân thủ quy định môi trường.
+## Bài học cho người dùng
+- Với lưu chất dễ đổi pha, nên ưu tiên cấu hình không tiếp xúc.
+- Cần đánh giá toàn bộ dải áp suất và nhiệt độ vận hành, không chỉ điểm thiết kế.
+- Hệ thống phụ trợ và giám sát phải đi kèm phớt để bảo đảm hiệu quả.
+## Nguồn tham khảo
+The Machine Maker, PR Newswire. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['john-crane-type-93ax-phot-ngan-cach','g','Phớt ngăn cách đồng trục Type 93AX: thế hệ mới của phớt khí khô','John Crane Type 93AX Coaxial Separation Seal',`Tháng 6/2025, John Crane công bố phớt ngăn cách đồng trục Type 93AX, giải pháp làm kín khí khô thế hệ mới nhằm giảm phát thải, tăng độ tin cậy và hạ chi phí vận hành.
+## Phớt ngăn cách dùng để làm gì
+Trong hệ thống phớt khí khô, phớt ngăn cách nằm giữa phớt khí và ổ trục. Nhiệm vụ của nó là ngăn khí công nghệ rò sang khoang ổ trục và ngăn dầu bôi trơn lẫn vào phớt khí.
+## Điểm đáng chú ý của Type 93AX
+Theo hãng, thiết kế an toàn sự cố cho phép phớt vẫn hoạt động ngay cả khi xảy ra nhiều sự cố. Phớt tương thích với dòng phớt khí khô của John Crane và được hỗ trợ bởi mạng lưới hơn 200 cơ sở sản xuất, bán hàng và dịch vụ cùng 13 trung tâm dịch vụ turbo tại hơn 50 quốc gia.
+## Điều người dùng nên cân nhắc
+- Đánh giá yêu cầu an toàn: khí độc hại hay dễ cháy cần cấu hình ngăn cách đáng tin cậy.
+- Kiểm tra tính tương thích khi thay thế phớt cũ.
+- Bảo đảm khí ngăn cách sạch và đúng áp suất.
+## Nguồn tham khảo
+T&D India (17/06/2025), PR Newswire. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['aesseal-bai-hoc-thay-phot-giam-chi-phi','s','Bài học từ các dự án thay phớt: chọn đúng cấu hình để giảm chi phí','Lessons from Seal Upgrades: Choosing the Right Design to Cut Costs',`AESSEAL công bố nhiều trường hợp nâng cấp phớt cho thấy việc chọn đúng cấu hình có thể giảm đáng kể chi phí bảo trì. Đây là số liệu do nhà sản xuất công bố, kết quả thực tế sẽ khác nhau tùy điều kiện từng nhà máy.
+## Một số trường hợp được công bố
+- Một công ty hóa dầu loại bỏ sự cố phớt và tiết kiệm hơn 14.000 bảng Anh cho mỗi bơm sau khi dùng phớt đơn CAPI A.
+- Nhà máy đường Tongaat Hulett dùng phớt cartridge Convertor II và vận hành liên tục 17 năm không phải thay.
+- Nhà máy polyethylene dùng phớt MagTecta cho quạt thổi, tăng độ tin cậy gấp bốn lần và tiết kiệm 144.000 euro chi phí bảo trì trong hơn 30 tháng.
+- Một nhà máy lọc dầu ở Canada dùng phớt đẩy API đơn và vận hành ổn định 38 tháng, tiết kiệm hơn 300.000 đô la Canada.
+## Rút ra điều gì
+Phần lớn khoản tiết kiệm đến từ việc tìm đúng nguyên nhân hỏng, chọn đúng loại phớt cho môi chất và điều kiện vận hành, rồi lắp đặt đúng quy trình. Phớt cartridge giúp giảm sai sót khi lắp, còn chọn cấu hình đơn giản hơn khi điều kiện cho phép giúp giảm chi phí và hệ thống phụ trợ.
+## Nguồn tham khảo
+Mục tin tức của AESSEAL. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['aes-engineering-mua-lai-pss-seal','s','AES Engineering mua lại PSS Seal, mở rộng sang phớt cho tàu thủy','AES Engineering Acquires PSS Seal, Expanding into Marine Sealing',`Ngày 8/10/2024, tập đoàn AES Engineering, chủ sở hữu thương hiệu AESSEAL, hoàn tất việc mua lại PSS Seal LLC, đơn vị có trụ sở tại bang Washington, Mỹ, nổi tiếng về phớt cho hệ thống đẩy của tàu thuyền.
+## Ý nghĩa của thương vụ
+Khách hàng của PSS Seal được tiếp cận danh mục sản phẩm và dịch vụ rộng hơn của AESSEAL cùng các công ty khác trong tập đoàn. Ngược lại, mạng lưới dịch vụ toàn cầu của AESSEAL hỗ trợ cho cơ sở khách hàng của PSS Seal. Thương vụ cho thấy xu hướng hợp nhất trong ngành làm kín, các hãng mở rộng sang các thị trường chuyên biệt như hàng hải.
+## Cam kết môi trường
+Tập đoàn AES Engineering cho biết sẽ đầu tư 29 triệu bảng Anh cho các dự án môi trường trong giai đoạn từ 1/1/2021 đến 1/4/2029, cho thấy tính bền vững đang trở thành tiêu chí cạnh tranh quan trọng.
+## Điều người dùng có thể rút ra
+- Nhà cung cấp lớn thường có mạng lưới dịch vụ rộng, thuận lợi cho bảo trì dài hạn.
+- Nên xem xét cả khả năng hỗ trợ kỹ thuật tại địa phương khi chọn nhà cung cấp phớt.
+## Nguồn tham khảo
+AESSEAL, CB Insights. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['eagleburgmann-mo-rong-san-xuat-va-phan-phoi','p','EagleBurgmann mở rộng sản xuất tại Brazil và hợp tác phân phối tại Mỹ','EagleBurgmann Expands Production in Brazil and Distribution in the US',`EagleBurgmann, thuộc tập đoàn Freudenberg, là một trong những nhà cung cấp giải pháp làm kín công nghiệp lớn trên thế giới, với danh mục gồm phớt cơ khí, hệ thống cấp chất lỏng, khớp nối từ, phớt vòng carbon nổi và khe co giãn.
+## Nhà máy mới tại Brazil
+Năm 2022, hãng khánh thành cơ sở sản xuất Valinhos tại Brazil với diện tích sàn 3.500 mét vuông để đáp ứng nhu cầu tăng đối với phớt cơ khí, khe co giãn vải và hệ thống cấp chất lỏng. Cơ sở này đóng góp vào mục tiêu trung hòa khí hậu của Freudenberg vào năm 2045 thông qua sản xuất tiết kiệm năng lượng và tự tạo năng lượng xanh.
+## Hợp tác phân phối tại Mỹ
+Tháng 9/2023, Odessa Pumps, một công ty thuộc DNOW, ký thỏa thuận hợp tác độc quyền với EagleBurgmann để cung cấp phớt cơ khí và hệ thống cấp chất lỏng tại Texas, New Mexico và một số khu vực lân cận, gồm công nghệ DiamondFace và phớt cartridge Cartex.
+## Phớt cho ngành nước
+Hãng cũng giới thiệu dòng phớt ống xếp đàn hồi eMG thay thế dòng MG cho các bơm của Grundfos, đồng thời nhấn mạnh phớt dùng cho nước uống có các chứng nhận như UBA và WRAS.
+## Nguồn tham khảo
+Website EagleBurgmann, DNOW. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`]
+];
+const NW3=[
+['flowserve-gaspac-ze-khong-phat-thai-khi-dung-may','g','Flowserve Gaspac ZE: phớt khí khô không phát thải khi máy dừng','Flowserve Gaspac ZE: A Dry Gas Seal with Zero Emissions at Standstill',`Flowserve giới thiệu Gaspac ZE, dòng phớt khí khô tích hợp công nghệ cách ly khi máy đứng yên, nhằm loại bỏ rò rỉ tĩnh và không cần xả khí (blowdown) ở máy nén vận hành gián đoạn.
+## Vấn đề cần giải quyết
+Ở máy nén đường ống chạy không liên tục, khí trong buồng phớt thường phải xả ra mỗi lần dừng máy, và vẫn có rò rỉ nhỏ khi máy đứng yên. Nhiều quốc gia đặt mục tiêu giảm phát thải methane đến năm 2030, nên các nhà vận hành cần giải pháp mới.
+## Cách Gaspac ZE hoạt động
+Theo hãng, một hệ thống kích hoạt bằng nitơ sẽ ép phớt cách ly khi máy dừng để chặn rò rỉ, và tự ngắt khi máy chạy. Hãng cho biết giải pháp đạt phát thải bằng không ở trạng thái đứng yên, bỏ nhu cầu xả khí, tiết kiệm khoảng 100.000 mét khối khí chuẩn mỗi năm cho mỗi máy nén và giảm tổng phát thải tới 80%.
+## Thông số do hãng công bố
+- Áp suất làm kín đến 120 bar, áp suất kích hoạt đến 140 bar.
+- Nhiệt độ làm việc từ -40 đến 180 độ C.
+- Đường kính trục khoảng 100 đến 205 mm.
+## Nhận định
+Hãng dẫn lại trường hợp một nhà vận hành đường ống khí ở châu Âu (OGE) giảm hơn 80% phát thải methane. Đây là số liệu do nhà sản xuất công bố, hiệu quả thực tế phụ thuộc chế độ vận hành của từng trạm nén.
+## Nguồn tham khảo
+Trang sản phẩm Flowserve và tài liệu giới thiệu của hãng. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['flowserve-aquapac-ampliflow-t-boost','g','Aquapac và Ampliflow T-Boost: giải pháp làm kín cho nén hydro và khí làm kín','Flowserve Aquapac and Ampliflow T-Boost for Hydrogen and Seal Gas Supply',`Flowserve công bố hai giải pháp mới cho máy nén: phớt Aquapac bôi trơn bằng nước cho máy nén trục vít không dầu phục vụ hydro xanh, và bộ tăng áp khí làm kín Ampliflow T-Boost cho phớt khí khô. Thông tin dưới đây dựa trên nội dung hãng đăng công khai.
+## Aquapac: làm kín cho nén hydro sạch
+Theo hãng, đây là phớt cơ khí bôi trơn bằng nước đầu tiên dành cho máy nén trục vít không dầu. Giải pháp dùng nước siêu tinh khiết thay cho dầu hoặc khí chặn, nhờ đó giữ được độ tinh khiết của hydro và hướng tới nén hydro không phát thải.
+## Ampliflow T-Boost: bảo đảm nguồn khí làm kín
+Phớt khí khô cần khí cấp ổn định, đặc biệt khi chênh lệch áp suất thấp lúc khởi động hoặc dừng máy. T-Boost là bộ tăng áp khí làm kín, theo hãng được bịt kín hoàn toàn để không rò khí, có vỏ bọc triệt dòng điện xoáy và giảm tải nhiệt nên không cần làm mát thêm.
+## Ý nghĩa với người dùng
+- Hydro đòi hỏi độ tinh khiết cao và rò rỉ cực thấp.
+- Khí làm kín đáng tin cậy là điều kiện để phớt khí khô hoạt động tốt.
+- Xu hướng chung của ngành là loại bỏ dầu và khí thải khỏi hệ thống làm kín.
+## Nguồn tham khảo
+Nội dung công bố của Flowserve trên mạng xã hội. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['phot-khi-kho-giam-phat-thai-methane','g','Phớt khí khô giúp giảm phát thải methane ra sao: số liệu từ EPA','How Dry Gas Seals Cut Methane Emissions: Data from the US EPA',`Phần lớn khí methane thất thoát từ máy nén ly tâm đến từ hệ thống phớt dầu. Chương trình Natural Gas STAR của Cơ quan Bảo vệ Môi trường Mỹ (EPA) đã tổng hợp nhiều trường hợp thay phớt dầu bằng phớt khí khô.
+## Vì sao phớt dầu thải nhiều khí
+Dầu làm kín hòa tan một phần khí công nghệ. Khi dầu được khử khí, methane bị xả ra môi trường. Phớt khí khô không dùng dầu nên không có đường thất thoát này.
+## Số liệu đáng chú ý
+- Một đối tác của chương trình ghi nhận phớt dầu thất thoát khoảng 75 Mcf khí mỗi ngày, trong khi phớt khí khô chỉ khoảng 2 Mcf mỗi ngày (Mcf là nghìn feet khối).
+- Tài liệu của Flowserve nêu rằng phớt dầu có thể xả nhiều hơn phớt khí khô từ 20 đến 100 lần.
+## Lợi ích ngoài giảm phát thải
+Phớt khí khô không cần dầu bù, giảm bảo trì hệ thống dầu và tiết kiệm lượng khí có thể bán được. Tuy nhiên, khi chuyển đổi cần tính chi phí thay phớt, hệ thống cấp khí và điều kiện của máy nén hiện có.
+## Nguồn tham khảo
+EPA Natural Gas STAR, tài liệu trình bày của Flowserve. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['api-682-lich-su-va-phien-ban-4','s','API 682 là gì? Lịch sử và những điểm chính của bản thứ tư','What Is API 682? History and Key Points of the Fourth Edition',`API 682, đồng thời là ISO 21049, là tiêu chuẩn tham chiếu cho phớt cơ khí và hệ thống cấp chất lỏng của bơm trong dầu khí, hóa dầu và hóa chất. Hiểu tiêu chuẩn này giúp việc chọn phớt và viết yêu cầu kỹ thuật chính xác hơn.
+## Lịch sử ngắn gọn
+Ban đầu, thông tin về phớt nằm trong tiêu chuẩn bơm API 610. Trong thập niên 1990, API 682 tách thành tiêu chuẩn riêng, chi tiết hơn. Bản thứ ba (2004) được thống nhất với ISO 21049. Bản thứ tư mất gần sáu năm soạn thảo và dài khoảng 260 trang, so với khoảng 200 trang của bản trước.
+## Điểm chính của bản thứ tư
+- Hệ thống mã sản phẩm được sửa đổi, vẫn giữ ba thông số Category, Arrangement, Type và bổ sung thông tin vật liệu, đường kính trục.
+- Hai loại silicon carbide (liên kết phản ứng và thiêu kết) đều được dùng làm vật liệu mặt phớt mặc định.
+- Lần đầu có sơ đồ theo mã rủi ro và nguy hiểm để chọn cấu hình phớt.
+- Có quy định khoảng thời gian bổ sung chất lỏng tối thiểu 28 ngày.
+- Nút đỏ ở các cổng kết nối giúp nhận biết phớt theo bản thứ tư.
+## Ba cấu hình cơ bản
+Arrangement 1 là phớt đơn, Arrangement 2 là phớt đôi không tăng áp, Arrangement 3 là phớt đôi tăng áp.
+## Lưu ý
+Hãy kiểm tra phiên bản mới nhất trực tiếp trên trang của API trước khi lập yêu cầu kỹ thuật.
+## Nguồn tham khảo
+Pumps and Systems, EagleBurgmann, World Oil. Bài viết do SNS-VN tổng hợp và diễn giải lại.`],
+['ranh-mat-phot-khi-kho-t-groove-apg','g','Hình dạng mặt phớt quyết định hiệu suất: rãnh T-Groove, APG và mặt gợn sóng','Face Geometry Matters: T-Groove, APG and Wavy-Face Seal Technologies',`Với phớt không tiếp xúc, hình dạng bề mặt làm kín quyết định khả năng tạo màng khí hoặc màng chất lỏng ổn định. Bài viết tổng hợp một số công nghệ bề mặt do Flowserve công bố.
+## Rãnh trên mặt phớt khí khô
+Phớt khí khô Gaspac dùng một trong hai mẫu rãnh: T-Groove hai chiều hoặc Advanced Pattern Groove (APG). Theo hãng, cả hai tạo màng khí có độ cứng và khả năng giảm chấn cao, giữ màng khí ổn định ở tốc độ chậm lẫn tốc độ cao đến 250 mét mỗi giây.
+## Mặt gợn sóng cho phớt bơm
+Phớt QBQ LZ dùng công nghệ Precision Face Topography, mặt phớt gợn sóng được cấp bằng sáng chế, nhằm giảm mạnh rò rỉ khuếch tán trong dịch vụ hydrocarbon nhẹ.
+## Phớt rào chắn khí
+Phớt GX-200 dùng mẫu rãnh APG kết hợp ống xếp kim loại, tạo lực nâng thủy tĩnh và thủy động để mặt phớt không tiếp xúc. Hãng cho biết phớt đạt phát thải sản phẩm bằng không, kể cả khi chạy khô, và lắp được vào buồng phớt tiêu chuẩn mà không cần sửa bơm.
+## Điều cần nhớ
+- Hình dạng mặt phớt ảnh hưởng trực tiếp đến phát thải và tuổi thọ.
+- Mỗi mẫu rãnh phù hợp với dải tốc độ, áp suất và môi chất khác nhau.
+- Cần xác nhận thông số thực tế với nhà cung cấp.
+## Nguồn tham khảo
+Tài liệu sản phẩm của Flowserve, AIChE. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['cac-hang-phot-co-khi-lon-quy-mo-mang-luoi','p','Các hãng phớt cơ khí lớn: quy mô và mạng lưới dịch vụ toàn cầu','Leading Mechanical Seal Makers: Scale and Global Service Networks',`Thị trường phớt cơ khí toàn cầu có một số nhà cung cấp lớn với mạng lưới sản xuất và dịch vụ rộng. Biết quy mô của họ giúp người dùng đánh giá khả năng hỗ trợ kỹ thuật tại địa phương.
+## Thông tin do các hãng công bố
+- John Crane: mạng lưới hơn 200 cơ sở gồm sản xuất, bán hàng và dịch vụ, cùng 13 trung tâm dịch vụ turbo tại hơn 50 quốc gia.
+- EagleBurgmann (tập đoàn Freudenberg): khoảng 250 địa điểm và 90 trung tâm dịch vụ trên thế giới.
+- AESSEAL: thành lập năm 1979, theo tài liệu giới thiệu có hơn 1.750 nhân viên và phục vụ khách hàng tại 230 địa điểm ở 104 quốc gia.
+- Flowserve: báo cáo năm 2023 nêu 35 cơ sở sản xuất, 131 trung tâm đáp ứng nhanh và khoảng 193 mẫu phớt cơ khí cùng hệ thống phớt.
+## Cách đánh giá nhà cung cấp phớt
+- Khả năng hỗ trợ kỹ thuật và dịch vụ tại khu vực của bạn.
+- Mức độ sẵn có của phụ tùng và thời gian giao hàng.
+- Tuân thủ các tiêu chuẩn như API 682 và khả năng thử nghiệm.
+- Kinh nghiệm với môi chất và ngành của bạn.
+## Nguồn tham khảo
+Website và tài liệu giới thiệu của các hãng, báo cáo thường niên Flowserve 2023, PR Newswire. Số liệu có thể thay đổi theo thời gian. Bài viết do SNS-VN tổng hợp; tên thương hiệu thuộc về chủ sở hữu.`]
+];
+const NW4=[
+['quy-dinh-methane-epa-phot-khi-kho-10-scfm','g','Quy định methane của EPA Mỹ và phớt khí khô: giới hạn 10 scfm mỗi phớt','US EPA Methane Rules and Dry Gas Seals: A 10 scfm Limit per Seal',`Cơ quan Bảo vệ Môi trường Mỹ (EPA) từng coi máy nén ly tâm dùng phớt khí khô là nguồn phát thải thấp và không đưa vào diện kiểm soát. Quy định cuối cùng ban hành năm 2023 (NSPS OOOOb) đã thay đổi điều đó.
+## Điểm mới trong quy định
+EPA thừa nhận một số máy nén dùng phớt khí khô phát thải nhiều hơn người ta từng nghĩ. Quy định đặt giới hạn lưu lượng khí rò tối đa 10 scfm (feet khối chuẩn mỗi phút) cho mỗi phớt khí khô, đồng thời yêu cầu giám sát và sửa chữa để giữ lưu lượng dưới mức này. Với máy nén dùng phớt dầu, quy định yêu cầu giảm 95% phát thải methane và VOC từ hệ thống khử khí dầu, hoặc áp dụng các giới hạn tương ứng.
+## Mốc thời gian đã thay đổi
+Ngày 31/7/2025, EPA ban hành quy định tạm thời gia hạn nhiều mốc tuân thủ, nhiều mốc được dời đến 22/1/2027, và hoàn tất quy định này vào tháng 12/2025. EPA cũng đang xem xét lại toàn diện OOOOb và OOOOc, nên yêu cầu có thể tiếp tục thay đổi.
+## Ý nghĩa với người vận hành
+- Phớt khí khô vẫn là lựa chọn phát thải thấp nhưng cần đo và theo dõi lưu lượng rò rỉ.
+- Vận hành và bảo trì phớt tốt là điều kiện để đạt giới hạn.
+- Xu hướng siết chặt phát thải methane đáng được các nhà vận hành tại nhiều nước theo dõi.
+Đây là quy định của Mỹ, không áp dụng trực tiếp tại Việt Nam, và hiệu lực có thể đã thay đổi sau thời điểm bài viết.
+## Nguồn tham khảo
+EPA (bảng tóm tắt yêu cầu 12/2023, thông cáo 12/2025), Federal Register (3/12/2025), Compressortech2. Bài viết do SNS-VN tổng hợp và diễn giải lại.`],
+['phot-phu-kim-cuong-loi-ich-va-luu-y','s','Mặt phớt phủ kim cương: lợi ích và những lưu ý khi lựa chọn','Diamond-Coated Seal Faces: Benefits and Points to Consider',`Mặt phớt phủ kim cương là công nghệ đưa lớp phủ kim cương lên bề mặt silicon carbide để tăng độ cứng và giảm ma sát. EagleBurgmann thương mại hóa công nghệ này với tên DiamondFace, còn Advanced Diamond Technologies từng giới thiệu các bề mặt kim cương tối ưu cho điều kiện chạy khô.
+## Vì sao được quan tâm
+Chạy khô và môi chất chứa hạt rắn là hai nguyên nhân phổ biến làm hỏng phớt. Kim cương có độ cứng rất cao và ma sát thấp, nên về nguyên lý giúp mặt phớt chịu mài mòn tốt hơn và giảm sinh nhiệt khi mất màng chất lỏng.
+## Lưu ý từ giới chuyên môn
+Tạp chí Hydrocarbon Processing từng đăng bài nhắc người mua cần thận trọng khi xem lớp phủ kim cương là lời giải cho chạy khô. Cần xem xét độ bám dính và độ dày lớp phủ, điều kiện thử nghiệm độc lập, khả năng tương thích với môi chất và chi phí so với lợi ích.
+## Gợi ý khi lựa chọn
+- Yêu cầu dữ liệu thử nghiệm trong điều kiện gần với vận hành thực tế.
+- So sánh với silicon carbide thiêu kết và các giải pháp chống chạy khô khác.
+- Xét tổng chi phí vòng đời thay vì chỉ giá mua ban đầu.
+## Nguồn tham khảo
+EagleBurgmann, Pumps and Systems, Hydrocarbon Processing, Compound Semiconductor. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['so-do-phu-tro-api-682-piping-plan','s','Sơ đồ phụ trợ API 682 (piping plan): Plan 11, 23, 32, 52, 53, 54 dùng khi nào','API 682 Piping Plans Explained: When to Use Plan 11, 23, 32, 52, 53 and 54',`Phớt cơ khí hiếm khi hoạt động riêng lẻ. Hệ thống đường ống phụ trợ quyết định môi trường làm việc của phớt, và API 682 chuẩn hóa chúng thành các sơ đồ (piping plan) đánh số. Bài viết này tóm tắt các sơ đồ thường gặp theo tiêu chuẩn.
+## Nhóm sơ đồ xả và làm mát phớt
+- Plan 11: dẫn chất lỏng từ cửa xả bơm qua lỗ tiết lưu đến phớt, đơn giản và phổ biến nhất.
+- Plan 23: dùng vòng bơm trong phớt tuần hoàn chất lỏng qua bộ làm mát, hợp với nước nóng và môi chất nhiệt độ cao.
+- Plan 32: cấp chất lỏng sạch từ nguồn bên ngoài khi môi chất có hạt rắn hoặc dễ bay hơi.
+## Nhóm sơ đồ cho phớt đôi
+- Plan 52: chất lỏng đệm không tăng áp trong bình chứa, dùng cho phớt đôi không tăng áp.
+- Plan 53A, 53B, 53C: chất lỏng chặn có áp, lần lượt dùng bình chứa, bình tích áp dạng màng và bình tích áp dạng piston.
+- Plan 54: cấp chất lỏng chặn có áp từ hệ thống bên ngoài.
+## Cách chọn sơ đồ
+Cần xét độc tính, khả năng cháy nổ, nhiệt độ, hạt rắn và yêu cầu phát thải của môi chất. Môi chất càng nguy hiểm thì càng cần cấu hình kín và có áp.
+## Lưu ý
+Hãy đối chiếu với bản API 682 hiện hành khi lập yêu cầu kỹ thuật.
+## Nguồn tham khảo
+Tổng hợp từ tiêu chuẩn API 682 và tài liệu kỹ thuật phổ biến trong ngành.`],
+['phan-tich-nguyen-nhan-hong-phot-co-khi','s','Phân tích nguyên nhân hỏng phớt cơ khí: cách đọc dấu vết trên mặt phớt','Root Cause Analysis of Mechanical Seal Failures: Reading the Evidence on the Faces',`Thay phớt mới mà không tìm ra nguyên nhân hỏng thường dẫn đến lần hỏng tiếp theo. Phân tích nguyên nhân gốc giúp biến sự cố thành dữ liệu để cải thiện độ tin cậy.
+## Giữ nguyên hiện trường
+Trước khi tháo, chụp ảnh và ghi lại tình trạng rò rỉ, nhiệt độ, rung động và thông số vận hành. Không lau sạch mặt phớt và gioăng, vì dấu vết trên đó là bằng chứng.
+## Những dấu hiệu thường gặp trên mặt phớt
+- Vết cháy xém hoặc nứt nhiệt: gợi ý chạy khô hoặc mất màng chất lỏng.
+- Vết mài mòn không đều: có thể do lệch trục hoặc rung động.
+- Rãnh mòn sâu và cặn bám: thường do hạt rắn hoặc kết tinh môi chất.
+- Gioăng cứng, nứt hoặc phồng: vật liệu gioăng không phù hợp nhiệt độ hoặc hóa chất.
+## Các nhóm nguyên nhân chính
+Vận hành ngoài vùng thiết kế của bơm, lắp đặt sai, lựa chọn vật liệu chưa phù hợp, hệ thống phụ trợ hoạt động kém và rung động do ổ trục hoặc căn chỉnh.
+## Hành động sau phân tích
+- Khắc phục nguyên nhân gốc trước khi chạy lại.
+- Cập nhật quy trình lắp đặt và kiểm tra.
+- Cân nhắc nâng cấp cấu hình phớt nếu lặp lại sự cố.
+## Nguồn tham khảo
+Tổng hợp từ thực hành kỹ thuật phổ biến trong bảo trì phớt cơ khí.`],
+['chon-phot-don-phot-doi-phot-khi','s','Chọn phớt đơn, phớt đôi hay phớt có khí chặn: khung quyết định theo mức nguy hiểm','Single, Dual or Gas-Barrier Seals: A Decision Framework Based on Hazard Level',`Một câu hỏi thường gặp khi chọn phớt cho bơm là nên dùng phớt đơn hay phớt đôi. Câu trả lời phụ thuộc chủ yếu vào mức độ nguy hiểm của môi chất và yêu cầu về phát thải.
+## Phớt đơn (Arrangement 1)
+Phù hợp với chất lỏng không độc hại, không dễ cháy, rò rỉ nhỏ có thể chấp nhận được. Chi phí thấp, hệ thống đơn giản.
+## Phớt đôi không tăng áp (Arrangement 2)
+Có hai phớt với chất lỏng đệm ở giữa không tăng áp. Phớt ngoài làm nhiệm vụ dự phòng, thích hợp khi cần thêm một lớp an toàn nhưng vẫn chấp nhận một lượng nhỏ môi chất lọt vào chất lỏng đệm.
+## Phớt đôi tăng áp (Arrangement 3)
+Chất lỏng chặn có áp cao hơn môi chất nên môi chất không lọt ra ngoài. Đây là lựa chọn cho môi chất độc hại, dễ cháy hoặc yêu cầu phát thải cực thấp, nhưng cần hệ thống phụ trợ như bình chứa và bộ làm mát.
+## Khí chặn (gas barrier)
+Một số phớt dùng khí trơ làm lớp chặn thay cho chất lỏng, phù hợp khi muốn tránh nhiễm chất lỏng chặn vào quy trình hoặc khi môi chất không cho phép dùng chất lỏng.
+## Gợi ý quyết định
+- Môi chất không nguy hiểm: ưu tiên phớt đơn.
+- Môi chất nguy hiểm vừa: cân nhắc phớt đôi không tăng áp.
+- Môi chất độc hại hoặc dễ cháy: ưu tiên phớt đôi tăng áp.
+## Nguồn tham khảo
+Tổng hợp từ khái niệm Arrangement trong API 682 và tài liệu kỹ thuật phổ biến.`],
+['giam-sat-tinh-trang-phot-bao-tri-du-doan','s','Giám sát tình trạng phớt: từ cảm biến đến bảo trì dự đoán','Seal Condition Monitoring: From Sensors to Predictive Maintenance',`Nhiều nhà máy vẫn thay phớt theo lịch cố định hoặc chờ đến khi rò rỉ. Giám sát tình trạng cho phép phát hiện sớm hư hỏng và chỉ can thiệp khi thật sự cần.
+## Những thông số thường theo dõi
+- Áp suất và nhiệt độ của chất lỏng chặn hoặc đệm.
+- Mức chất lỏng trong bình chứa và tốc độ hao hụt.
+- Lưu lượng khí rò ở phớt khí khô.
+- Nhiệt độ vỏ phớt và rung động của bơm.
+## Từ dữ liệu đến cảnh báo
+Dữ liệu từ cảm biến được truyền về hệ thống điều khiển hoặc phần mềm phân tích. Khi một thông số vượt ngưỡng hoặc xu hướng thay đổi bất thường, hệ thống cảnh báo để bảo trì có kế hoạch thay vì sửa chữa khẩn cấp.
+## Lợi ích
+- Giảm dừng máy ngoài kế hoạch.
+- Kéo dài tuổi thọ phớt nhờ can thiệp đúng thời điểm.
+- Có dữ liệu để phân tích nguyên nhân khi sự cố xảy ra.
+## Lưu ý khi triển khai
+Chọn cảm biến phù hợp vị trí lắp, định ngưỡng cảnh báo dựa trên dữ liệu thực tế và đào tạo người vận hành đọc cảnh báo.
+## Nguồn tham khảo
+Tổng hợp từ thực hành kỹ thuật phổ biến về giám sát tình trạng thiết bị quay.`]
+];
+const NW5=[
+['phot-cho-hydro-thach-thuc-ro-ri-va-giron','g','Làm kín hydro: vì sao khó và vật liệu nào được dùng','Sealing Hydrogen: Why It Is Hard and Which Materials Are Used',`Hydro là chất mang năng lượng sạch đang được đầu tư mạnh, nhưng làm kín hydro lại là một trong những bài toán kỹ thuật khó nhất của máy nén và đường ống.
+## Những thách thức chính
+- Phân tử rất nhỏ và nhẹ nên dễ thấm qua nhiều loại polymer và kim loại, gây rò rỉ.
+- Hydro có thể gây giòn kim loại (hydrogen embrittlement).
+- Điều kiện làm việc khắc nghiệt: theo Freudenberg Sealing Technologies, áp suất có thể vượt 700 bar, nhiệt độ từ cryo đến trên 150 độ C.
+- Hydro rất dễ cháy nên rò rỉ vừa nguy hiểm vừa gây tổn thất chi phí.
+## Giải pháp được nêu trong ngành
+Các hãng phát triển họ elastomer chịu hydro và giữ độ bền ở nhiệt độ cực đoan. Với máy nén ly tâm, tiêu chuẩn API 617 giới hạn vật liệu trong môi trường hydro ở mức giới hạn chảy dưới 120 ksi hoặc độ cứng dưới 34 HRC để tránh giòn hydro. Phớt khí khô và các gioăng tĩnh tương thích khí được dùng trong máy nén giàu hydro, và phớt khí khô còn giúp loại bỏ vấn đề nhiễm dầu thường gặp ở máy nén piston.
+## Ý nghĩa với người dùng
+- Chọn vật liệu theo dữ liệu thử nghiệm với hydro ở áp suất và nhiệt độ thực tế.
+- Kiểm tra rò rỉ tĩnh và động trong điều kiện vận hành.
+- Làm việc với nhà cung cấp có kinh nghiệm hydro.
+## Nguồn tham khảo
+Gasworld (Freudenberg Sealing Technologies), Greene Tweed, Turbomachinery Magazine. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['may-nen-hydro-khong-dau-vong-piston-mang-ngan','g','Máy nén hydro không dầu: vòng piston, màng ngăn và bài toán vật liệu','Oil-Free Hydrogen Compressors: Piston Rings, Diaphragms and Materials',`Các ứng dụng lưu trữ và trạm nạp hydro đòi hỏi máy nén không dùng dầu để giữ độ tinh khiết của khí. Điều này đặt ra yêu cầu rất cao đối với vòng piston, bao kín và vật liệu.
+## Máy nén piston không dầu
+Theo Cook Compression, hydro là khí nhẹ với phân tử rất nhỏ nên khó làm kín. Việc ngăn rò rỉ phụ thuộc nhiều vào vòng piston và hộp bao kín làm từ vật liệu chuyên dụng. Hãng thiết kế vòng piston có hình học đặc biệt tạo các đường dòng phức tạp để hạn chế khí lọt qua, kết hợp kim loại chống giòn hydro và các loại polymer mới giảm mài mòn.
+## Máy nén màng ngăn
+Theo Technetics, máy nén màng ngăn là lựa chọn tiêu chuẩn cho hydro cấp điện tử và dược phẩm nhờ không gây nhiễm bẩn. Hãng nhận định sự cố thường bắt đầu tại các mặt tiếp xúc như vùng kẹp màng và mép làm kín, và rò rỉ nội bộ làm giảm công suất một cách âm thầm.
+## Điều cần lưu ý
+- Rò rỉ nội bộ làm lãng phí năng lượng nén và ảnh hưởng hiệu quả kinh tế của hydro xanh.
+- Cần cân bằng độ cứng và độ bền mỏi với nguy cơ nứt do hydro, đặc biệt ở áp suất rất cao.
+## Nguồn tham khảo
+Oil and Gas News (Cook Compression), Technetics. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['gioan-dan-hoi-rgd-khi-ap-cao','s','Giãn nở khí đột ngột (RGD): vì sao gioăng cao su hỏng trong khí áp cao','Rapid Gas Decompression: Why Elastomer Seals Fail in High-Pressure Gas',`Gioăng đàn hồi trong môi trường khí áp suất cao, đặc biệt là hydro và CO2, có thể bị hỏng kể cả khi vật liệu tương thích hóa học. Nguyên nhân thường liên quan đến hiện tượng giãn nở khí đột ngột (rapid gas decompression, RGD).
+## Cơ chế hỏng
+Ở áp suất cao, khí thấm vào gioăng. Khi áp suất giảm nhanh, khí bị mắc kẹt bên trong giãn nở và tạo bọt hoặc nứt gioăng từ bên trong. Theo Greene Tweed, hydro có độ thấm cao nên khi kết hợp với áp suất lớn, RGD trở thành vấn đề thực sự. Ngoài ra, nghiên cứu của Bộ Năng lượng Mỹ ghi nhận hydro bão hòa trong vật liệu seal ở nhiệt độ và áp suất cao làm thay đổi kích thước và cơ tính của gioăng.
+## Cách hạn chế
+- Chọn hợp chất elastomer đã được thử nghiệm RGD cho đúng loại khí và áp suất. Freudenberg cho biết có hơn 1.500 công thức vật liệu để phát triển theo ứng dụng.
+- Cân nhắc elastomer fluor hóa (FFKM, FEPM) và các lớp phủ giảm ma sát hoặc cản khí.
+- Kiểm soát tốc độ xả áp trong vận hành khi có thể.
+## Nguồn tham khảo
+Greene Tweed, Freudenberg Sealing Technologies, Bộ Năng lượng Mỹ (Hydrogen Program). Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['phot-khi-kho-nha-may-dien-co2-sieu-toi-han','g','Phớt khí khô cho nhà máy điện chu trình CO2 siêu tới hạn đầu tiên','Dry Gas Seals for the First Supercritical CO2 Power Cycle Plant',`Tại Houston, Texas, nhà máy điện thương mại đầu tiên dùng chu trình Allam oxy-fuel đã vận hành thử nghiệm quy mô 50 MW với máy nén CO2 siêu tới hạn (sCO2). Giải pháp làm kín cho máy nén này là một ví dụ về phớt khí khô trong điều kiện mới.
+## Điều kiện làm việc
+Theo John Crane, phớt được chọn là Type 28XP, phải làm việc với CO2 ở áp suất đến 178 bar và nhiệt độ đến 204 độ C tại vùng phớt. CO2 siêu tới hạn có mật độ rất cao nên đặt ra thách thức cho phớt khí.
+## Cách thiết kế
+- Dùng cấu hình phớt đơn với vòng polymer làm phần làm kín phụ, vì khí CO2 không độc hại.
+- Do nhiệt độ cao ở tầng nén thứ tư, phớt được thiết kế để thêm một labyrinth phía trong, cho phép phun khí làm mát tạo rào cản nhiệt.
+- Lượng rò rỉ còn lại phải được xử lý cẩn thận.
+## Kết quả
+Theo bài viết, các phớt khí khô được đưa vào vận hành thành công và hoạt động êm, đúng kỳ vọng thiết kế.
+## Ý nghĩa
+Chu trình CO2 siêu tới hạn và thu giữ carbon đang tạo ra các điều kiện mới cho phớt, và phớt khí khô là giải pháp được lựa chọn.
+## Nguồn tham khảo
+Pumps and Systems (tháng 6/2023), tài liệu trường hợp của John Crane. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['lam-kin-co2-sieu-toi-han-ccus','g','Làm kín CO2 siêu tới hạn cho thu giữ carbon (CCUS): kinh nghiệm thực tế','Sealing Supercritical CO2 for Carbon Capture (CCUS): Practical Lessons',`Các công ty năng lượng đã dùng CO2 siêu tới hạn trong khai thác dầu tăng cường nhiều thập kỷ, thường với bơm ly tâm dùng phớt khí khô không tiếp xúc. Khi thu giữ và lưu trữ carbon (CCUS) phát triển, yêu cầu mới xuất hiện.
+## Thực hành đã được chứng minh
+Theo John Crane, từ cuối thập niên 1980, người dùng đã làm kín CO2 bằng phớt khí khô không tiếp xúc tối ưu cho chất lỏng gần điểm bay hơi. Cấu hình phớt đôi không tăng áp (tandem) được khuyến nghị cho các ứng dụng này, và lọc dòng xả của phớt là yếu tố then chốt để bảo đảm độ tin cậy.
+## Thách thức mới ở tốc độ cao
+Máy móc tốc độ cao dùng cho vận chuyển đường ống, bơm lại và thu giữ carbon làm nhiệt độ trong buồng phớt tăng. Cần tăng lưu lượng khí cấp cho phớt và làm mát khí cấp (thường lấy từ khí xả) để giữ nhiệt độ trong giới hạn thiết kế.
+## Ví dụ về máy nén
+Atlas Copco giới thiệu máy nén CO2 áp suất cao tám cấp dùng phớt khí khô động không tiếp xúc, và cho biết trong thử nghiệm thực địa, so với phớt vòng carbon tiêu chuẩn, phớt khí khô thải ra lượng CO2 chỉ bằng một phần nhỏ.
+## Ý nghĩa
+- Phớt khí khô là lựa chọn phổ biến cho CO2 áp suất cao.
+- Cần tính toán nhiệt và lưu lượng khí cấp ngay từ thiết kế.
+## Nguồn tham khảo
+John Crane, Pumps and Systems, Atlas Copco. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['vong-carbon-noi-va-phot-khi-kho-may-nen-co2','g','Vòng carbon nổi và phớt khí khô trong máy nén CO2: khi nào dùng loại nào','Floating Carbon Rings vs Dry Gas Seals in CO2 Compressors: When to Use Which',`Trong máy nén ly tâm, hai giải pháp làm kín thường được so sánh là vòng carbon nổi (floating carbon ring) và phớt khí khô. Mỗi loại có vai trò riêng.
+## Vòng carbon nổi
+Là các vòng phân đoạn bằng carbon ôm quanh trục, tạo khe hở rất nhỏ để hạn chế khí lọt. Cấu tạo đơn giản, chịu nhiệt và tốc độ cao, nhưng vẫn có lượng khí rò nhất định và cần xử lý khí rò.
+## Phớt khí khô
+Dùng màng khí giữa hai mặt phớt không tiếp xúc. Theo thông tin của Atlas Copco, trong thử nghiệm thực địa, so với vòng carbon tiêu chuẩn, phớt khí khô động thải ra lượng CO2 chỉ bằng một phần nhỏ, đồng thời chiều dài ngắn của phớt giúp thu gọn kích thước máy nén.
+## Kết hợp cả hai
+Trong thực tế, nhiều máy nén dùng tổ hợp vòng carbon nổi và phớt khí khô. Vòng carbon đóng vai trò phớt ngăn cách hoặc phớt phụ, phớt khí khô đảm nhiệm làm kín chính.
+## Gợi ý lựa chọn
+- Cần rò rỉ rất thấp và kiểm soát phát thải: ưu tiên phớt khí khô.
+- Điều kiện nhiệt độ cao, môi chất bẩn hoặc yêu cầu đơn giản: cân nhắc vòng carbon.
+- Xét tổng chi phí vòng đời và hệ thống hỗ trợ.
+## Nguồn tham khảo
+Atlas Copco (tài liệu máy nén CO2), tổng hợp thực hành ngành. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`]
+];
 const ART=[
 ['product','mechanical-seals-for-pumps',`Phớt cơ khí cho bơm (mechanical seal) là giải pháp làm kín trục quay phổ biến nhất trong bơm ly tâm công nghiệp. Phớt giúp ngăn rò rỉ chất lỏng ra môi trường, giảm thất thoát sản phẩm, hạn chế mài mòn trục và bảo đảm an toàn cho nhà máy. So với bao kín dạng tết (gland packing), phớt cơ khí rò rỉ thấp hơn nhiều, tiêu tốn ít công suất hơn và ít phải bảo dưỡng hơn.
 ## Nguyên lý hoạt động của phớt cơ khí
@@ -164,6 +476,27 @@ async function init(env){if(init.d)return;const q=s=>env.DB.prepare(s);
   for(const[ty,sl,k]of[['product','mechanical-seals-for-pumps','s'],['product','dry-gas-seals-for-compressors','g'],['industry','oil-and-gas','p'],['industry','refinery','p']])b.push(q("UPDATE c SET vi_b=?1||char(10)||char(10)||vi_b WHERE type=?2 AND slug=?3 AND vi_b NOT LIKE '/img/%'").bind(im(sl,k),ty,sl));
   let ts=Date.now();for(const[sl,vt,et,x]of NW)b.push(q('INSERT OR IGNORE INTO c VALUES(?1,?2,?3,?4,?5,?6,?7)').bind('news',sl,vt,im(sl,'n')+'\n\n'+x,et,'',ts--));
   b.push(q("INSERT OR IGNORE INTO c VALUES('set','about','Giới thiệu công ty','','About Us','',0)"),q("UPDATE c SET vi_b=?1 WHERE type='set' AND slug='about' AND COALESCE(vi_b,'')=''").bind(im('about','n')+'\n\n'+ABOUT));
+  await env.DB.batch(b)}
+ if(!await q('SELECT 1 FROM c WHERE type=?1 AND slug=?2').bind('set','seeded4').first()){
+  const b=[q("INSERT INTO c VALUES('set','seeded4','','','','',0)")];let n=40;
+  const im=(sl,k)=>{const id='i_'+sl.replace(/-/g,'_');b.push(q("INSERT OR REPLACE INTO im VALUES(?1,'image/svg+xml',?2)").bind(id,btoa(ILL(k,190+(n++*13)%60))));return'/img/'+id};
+  b.push(q("UPDATE c SET vi_b=CASE WHEN COALESCE(vi_b,'')='' THEN ?1 WHEN vi_b NOT LIKE '%## %' THEN vi_b||char(10)||char(10)||?1 ELSE vi_b END WHERE type='product' AND slug='sims'").bind(im('sims','s')+'\n\n'+SIMS));
+  let ts=Date.now()+1000;for(const[sl,k,vt,et,x]of NW2)b.push(q('INSERT OR IGNORE INTO c VALUES(?1,?2,?3,?4,?5,?6,?7)').bind('news',sl,vt,im(sl,k)+'\n\n'+x,et,'',ts--));
+  await env.DB.batch(b)}
+ if(!await q('SELECT 1 FROM c WHERE type=?1 AND slug=?2').bind('set','seeded5').first()){
+  const b=[q("INSERT INTO c VALUES('set','seeded5','','','','',0)")];let n=50;
+  const im=(sl,k)=>{const id='i_'+sl.replace(/-/g,'_');b.push(q("INSERT OR REPLACE INTO im VALUES(?1,'image/svg+xml',?2)").bind(id,btoa(ILL(k,190+(n++*13)%60))));return'/img/'+id};
+  let ts=Date.now()+2000;for(const[sl,k,vt,et,x]of NW3)b.push(q('INSERT OR IGNORE INTO c VALUES(?1,?2,?3,?4,?5,?6,?7)').bind('news',sl,vt,im(sl,k)+'\n\n'+x,et,'',ts--));
+  await env.DB.batch(b)}
+ if(!await q('SELECT 1 FROM c WHERE type=?1 AND slug=?2').bind('set','seeded6').first()){
+  const b=[q("INSERT INTO c VALUES('set','seeded6','','','','',0)")];let n=60;
+  const im=(sl,k)=>{const id='i_'+sl.replace(/-/g,'_');b.push(q("INSERT OR REPLACE INTO im VALUES(?1,'image/svg+xml',?2)").bind(id,btoa(ILL(k,190+(n++*13)%60))));return'/img/'+id};
+  let ts=Date.now()+3000;for(const[sl,k,vt,et,x]of NW4)b.push(q('INSERT OR IGNORE INTO c VALUES(?1,?2,?3,?4,?5,?6,?7)').bind('news',sl,vt,im(sl,k)+'\n\n'+x,et,'',ts--));
+  await env.DB.batch(b)}
+ if(!await q('SELECT 1 FROM c WHERE type=?1 AND slug=?2').bind('set','seeded7').first()){
+  const b=[q("INSERT INTO c VALUES('set','seeded7','','','','',0)")];let n=70;
+  const im=(sl,k)=>{const id='i_'+sl.replace(/-/g,'_');b.push(q("INSERT OR REPLACE INTO im VALUES(?1,'image/svg+xml',?2)").bind(id,btoa(ILL(k,190+(n++*13)%60))));return'/img/'+id};
+  let ts=Date.now()+4000;for(const[sl,k,vt,et,x]of NW5)b.push(q('INSERT OR IGNORE INTO c VALUES(?1,?2,?3,?4,?5,?6,?7)').bind('news',sl,vt,im(sl,k)+'\n\n'+x,et,'',ts--));
   await env.DB.batch(b)}
  init.d=1}
 const one=(env,t,s)=>env.DB.prepare('SELECT * FROM c WHERE type=?1 AND slug=?2').bind(t,s).first();
