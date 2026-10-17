@@ -529,6 +529,218 @@ Các bơm nước làm mát, bơm tẩy gỉ và bơm xử lý nước có hạt
 ## Tư vấn theo từng ngành
 SNS-VN hỗ trợ tư vấn lựa chọn phớt cơ khí cho nhiều ngành công nghiệp khác nhau. Hãy liên hệ và cho chúng tôi biết môi chất, thiết bị và điều kiện vận hành để được tư vấn phù hợp.`]
 ];
+const PD2=[
+['agitator-mechanical-seal',`Phớt cơ khí cho máy khuấy (agitator mechanical seal) làm kín trục máy khuấy trong bồn phản ứng, bồn trộn và bồn chứa. Đây là ứng dụng khó hơn bơm vì trục dài, nhiều rung động và thường làm việc dưới áp suất hoặc chân không.
+## Đặc thù của máy khuấy
+Máy khuấy thường lắp thẳng đứng, trục dài nên dễ lệch tâm và đảo trục. Phớt phải bù được độ lệch này mà không tăng mài mòn. Khác với bơm, không có dòng chất lỏng tuần hoàn qua phớt nên việc làm mát và bôi trơn phải được thiết kế riêng.
+## Các cấu hình phổ biến
+- Phớt đơn: dùng cho môi chất không nguy hiểm và áp suất thấp.
+- Phớt đôi bôi trơn bằng chất lỏng chặn (Plan 52 hoặc 53): dùng cho môi chất độc hại hoặc dễ cháy.
+- Phớt đôi chạy khô dùng khí chặn như nitơ: tránh dùng chất lỏng chặn và hạn chế nhiễm bẩn sản phẩm.
+## Thiết kế chịu lệch trục
+Phớt dạng cartridge có ổ đỡ tích hợp giúp giữ mặt phớt đúng vị trí dù trục rung. Thiết kế phần tĩnh bù lệch tâm và khe hở rộng quanh trục giúp phớt làm việc ổn định. Dạng cartridge còn rút ngắn thời gian lắp đặt.
+## Yêu cầu vệ sinh và vật liệu
+Trong dược phẩm và thực phẩm, phớt cần vật liệu đạt tiêu chuẩn tiếp xúc sản phẩm, bề mặt dễ làm sạch và chịu được vệ sinh tại chỗ (CIP) và tiệt trùng bằng hơi (SIP). Trong hóa chất, thường dùng thép 316L hoặc hợp kim, mặt phớt silicon carbide và carbon, gioăng FFKM hoặc PTFE.
+## Lưu ý vận hành
+- Duy trì áp suất chất lỏng chặn cao hơn áp suất bồn.
+- Tránh để phớt chạy khô khi dùng loại bôi trơn bằng chất lỏng.
+- Theo dõi rung động và nhiệt độ vùng phớt.
+## Ứng dụng
+Bồn phản ứng, bồn trộn và bồn chứa trong ngành hóa chất, dược phẩm, thực phẩm, sơn và polymer.
+## Tư vấn
+SNS-VN hỗ trợ tư vấn phớt cho máy khuấy theo kích thước trục, áp suất bồn và môi chất. Hãy liên hệ để được báo giá.`],
+['seal-auxiliary-systems-for-pumps',`Hệ thống phụ trợ phớt cho bơm (seal auxiliary systems) cung cấp, làm mát và duy trì chất lỏng chặn hoặc chất lỏng đệm cho phớt cơ khí. Một phớt tốt nhưng hệ thống phụ trợ kém vẫn có thể hỏng sớm, nên đây là phần không thể bỏ qua.
+## Hệ thống phụ trợ làm gì
+Hệ thống tạo ra môi trường làm việc ổn định cho phớt: giữ chất lỏng chặn ở áp suất và nhiệt độ đúng, tuần hoàn để tản nhiệt và giám sát tình trạng. Các cấu hình được chuẩn hóa thành sơ đồ (piping plan) trong API 682.
+## Các sơ đồ thường gặp
+- Plan 52: bình chứa chất lỏng đệm không tăng áp cho phớt đôi không tăng áp.
+- Plan 53A: bình chứa có áp, tuần hoàn bằng vòng bơm trong phớt.
+- Plan 53B: bình tích áp dạng màng, áp suất do khí nitơ.
+- Plan 53C: bình tích áp dạng piston, áp suất bám theo áp suất bơm.
+- Plan 54: cấp chất lỏng chặn có áp từ hệ thống bên ngoài.
+## Các thành phần chính
+Bình chứa hoặc bình tích áp, bộ làm mát bằng không khí hoặc nước, đồng hồ và cảm biến áp suất, nhiệt độ, mức, công tắc cảnh báo, đường ống và van, cùng nguồn khí nitơ khi cần. Tất cả thường được lắp trọn bộ trên một khung để dễ vận chuyển và lắp đặt.
+## Chọn chất lỏng chặn
+Chất lỏng chặn phải tương thích với môi chất, không đóng cặn hoặc bốc hơi ở điều kiện làm việc và phù hợp nhiệt độ môi trường. Nước, hỗn hợp glycol và dầu tổng hợp là các lựa chọn thường gặp.
+## Giám sát và bảo trì
+- Theo dõi mức chất lỏng để phát hiện rò rỉ ở phớt trong hoặc ngoài.
+- Theo dõi áp suất để bảo đảm áp suất chặn cao hơn áp suất bơm.
+- Theo dõi nhiệt độ để cảnh báo mặt phớt bị quá nhiệt.
+- Bổ sung chất lỏng và kiểm tra theo chu kỳ.
+## Tư vấn
+SNS-VN hỗ trợ thiết kế và cung cấp hệ thống phụ trợ phớt theo API 682 phù hợp với bơm và môi chất của bạn. Hãy liên hệ để được báo giá.`],
+['dry-gas-seal-support-systems-for-compressors',`Hệ thống hỗ trợ phớt khí khô cho máy nén (gas panel) cấp khí sạch, khô, đúng áp suất và lưu lượng cho phớt khí khô, đồng thời giám sát tình trạng phớt. Chất lượng khí cấp quyết định phần lớn độ tin cậy của phớt khí khô.
+## Vì sao cần hệ thống hỗ trợ
+Màng khí giữa hai mặt phớt chỉ dày vài micromet nên chỉ cần hạt bụi hoặc giọt chất lỏng cũng có thể làm hỏng phớt. Hệ thống hỗ trợ bảo đảm khí cấp luôn sạch, khô và có áp suất cao hơn buồng phớt.
+## Các dòng khí trong hệ thống
+- Khí làm kín chính: khí công nghệ đã lọc, cấp cho phớt chính.
+- Khí làm kín phụ: thường là nitơ cho phớt thứ hai.
+- Khí ngăn cách: nitơ hoặc không khí sạch cấp cho phớt ngăn cách, bảo vệ ổ trục.
+## Thiết bị chính
+- Bộ lọc, thường có lọc tách giọt, để loại hạt rắn và chất lỏng.
+- Van điều áp và van điều khiển bảo đảm chênh áp ổn định.
+- Đồng hồ đo lưu lượng, cảm biến áp suất và chênh áp.
+- Bộ gia nhiệt khi khí dễ ngưng tụ.
+- Bộ tăng áp khi chênh áp tự nhiên không đủ lúc khởi động.
+## Giám sát và cảnh báo
+Chênh áp qua bộ lọc tăng báo hiệu lọc bẩn. Lưu lượng khí xả của phớt chính tăng bất thường cảnh báo mặt phớt đang mòn. Các tín hiệu này nên được đưa về hệ thống điều khiển để cảnh báo sớm và cho phép dừng máy an toàn.
+## Vấn đề ngưng tụ
+Khi khí giãn nở qua van điều áp, nhiệt độ giảm và hydrocarbon nặng có thể ngưng tụ. Giải pháp là gia nhiệt khí cấp, bọc nhiệt đường ống và chọn điểm lấy khí hợp lý.
+## Tiêu chuẩn tham chiếu
+Thiết kế thường tham chiếu API 692 và API 617. Hãy đối chiếu bản hiện hành khi lập yêu cầu kỹ thuật.
+## Tư vấn
+SNS-VN hỗ trợ tư vấn và cung cấp hệ thống hỗ trợ phớt khí khô theo điều kiện máy nén của bạn. Hãy liên hệ để được báo giá.`],
+['dry-gas-seal-and-support-system-for-pipeline-compressor',`Phớt khí khô và hệ thống hỗ trợ cho máy nén đường ống phục vụ các trạm nén khí thiên nhiên chạy liên tục, thường đặt ở nơi xa và ít người trực. Độ tin cậy và khả năng giám sát từ xa là yêu cầu quan trọng nhất.
+## Đặc điểm của máy nén đường ống
+Trạm nén thường vận hành tự động, khởi động và dừng nhiều lần theo nhu cầu vận chuyển khí. Khí đường ống có thể chứa hơi nước, hydrocarbon nặng và hạt bụi từ đường ống, nên chất lượng khí cấp cho phớt cần được xử lý kỹ.
+## Thách thức chính
+- Ngưng tụ chất lỏng khi khí giãn nở qua van điều áp.
+- Hạt rắn từ đường ống làm hỏng khe hở phớt.
+- Khởi động và dừng máy nhiều lần làm mặt phớt chịu va chạm khi chưa có màng khí.
+- Phát thải methane lúc đứng yên và khi xả áp.
+## Giải pháp thiết kế
+Hệ thống hỗ trợ gồm lọc nhiều cấp, gia nhiệt khí cấp, nguồn nitơ cho khí phụ và khí ngăn cách, cùng van điều áp ổn định chênh áp. Khi máy dừng ở trạng thái giữ áp, buồng phớt vẫn chịu áp khí đường ống nên cần xử lý khí rò rỉ tĩnh.
+## Giám sát từ xa
+Tín hiệu áp suất, lưu lượng xả và chênh áp lọc được truyền về hệ thống điều khiển và SCADA. Dữ liệu này giúp phát hiện sớm sự suy giảm của phớt và lập kế hoạch bảo trì mà không cần người trực tại chỗ.
+## Chuyển đổi từ phớt dầu
+Nhiều trạm cũ dùng hệ thống dầu làm kín. Chuyển sang phớt khí khô giúp bỏ hệ thống dầu, giảm bảo trì và giảm phát thải, nhưng cần đánh giá lại không gian lắp đặt, nguồn khí và hệ thống điều khiển.
+## Bảo trì
+- Thay lõi lọc đúng chu kỳ.
+- Kiểm tra bộ gia nhiệt và đường ống bọc nhiệt.
+- Kiểm tra nguồn khí nitơ.
+- Dự phòng phớt dạng cartridge để thay nhanh.
+## Tư vấn
+SNS-VN hỗ trợ tư vấn phớt khí khô và hệ thống hỗ trợ cho trạm nén đường ống. Hãy liên hệ để được báo giá.`],
+['split-mechanical-seal',`Phớt cơ khí dạng chia đôi (split mechanical seal) được tách thành hai nửa, có thể lắp hoặc thay mà không cần tháo bơm hay động cơ. Đây là giải pháp hiệu quả cho thiết bị lớn, khó tháo rời hoặc cần giảm thời gian dừng máy.
+## Cấu tạo
+Phớt gồm hai nửa vòng mặt phớt tĩnh và động, gioăng và các chi tiết kim loại được ghép lại quanh trục. Các mối ghép được thiết kế để mặt phớt đạt độ phẳng và độ kín như phớt nguyên khối.
+## Ưu điểm
+- Lắp đặt không cần tháo khớp nối hay động cơ.
+- Rút ngắn đáng kể thời gian dừng máy.
+- Thay thế được cho bao kín tết, giảm rò rỉ và hao nước làm mát.
+- Phù hợp với thiết bị lớn như bơm, quạt, máy khuấy và trục tàu.
+## Ứng dụng điển hình
+Bơm nước và nước thải cỡ lớn, bơm tuần hoàn, quạt công nghiệp, máy trộn và thiết bị trong ngành giấy, xi măng, điện và hóa chất.
+## Lưu ý khi lựa chọn
+- Giới hạn áp suất và tốc độ của phớt chia đôi thường thấp hơn phớt cartridge nguyên khối, cần kiểm tra thông số của nhà sản xuất.
+- Mối ghép gioăng cần được lắp đúng và sạch để tránh rò rỉ.
+- Mặt phớt cần giữ sạch tuyệt đối khi lắp.
+## Lắp đặt đúng cách
+Kiểm tra độ đảo và độ lệch tâm của trục, làm sạch trục, ghép hai nửa theo đúng hướng dẫn, siết bu lông đều rồi mới tháo kẹp định vị. Sau khi lắp, cấp chất lỏng đầy đủ trước khi chạy.
+## Chi phí vòng đời
+Giá mua có thể cao hơn phớt thông thường nhưng tiết kiệm chi phí dừng máy và nhân công tháo lắp, nên thường có lợi về tổng chi phí vòng đời với thiết bị lớn.
+## Tư vấn
+SNS-VN hỗ trợ tư vấn phớt chia đôi theo kích thước trục, áp suất và môi chất. Hãy liên hệ để được báo giá.`],
+['carbon-ring-seal',`Phớt vòng carbon (carbon ring seal) là phớt dạng phân đoạn bằng vật liệu carbon, làm kín trục tốc độ cao ở nhiệt độ cao với lượng rò rỉ thấp. Loại phớt này được dùng nhiều trong tua-bin, máy nén ly tâm và làm phớt ngăn cách.
+## Cấu tạo và nguyên lý
+Mỗi vòng gồm nhiều đoạn carbon ghép lại, được giữ ôm sát trục bằng lò xo vòng. Khe hở giữa vòng và trục rất nhỏ nên hạn chế khí hoặc hơi lọt dọc trục. Vòng có thể nổi theo độ lệch tâm của trục.
+## Ưu điểm
+- Chịu được nhiệt độ cao và tốc độ lớn.
+- Cấu tạo đơn giản, bền và dễ thay.
+- Làm việc ổn định với khí, hơi và một số môi chất.
+- Mài mòn từ từ, dễ theo dõi.
+## Vật liệu và trục
+Vòng thường làm bằng carbon graphite có tẩm chất phụ gia để tăng độ bền và chống mòn. Phần trục tiếp xúc cần được xử lý bề mặt cứng để chịu mài mòn và giữ độ nhám phù hợp.
+## Ứng dụng
+- Tua-bin hơi và tua-bin khí.
+- Máy nén ly tâm, đặc biệt làm phớt ngăn cách bảo vệ ổ trục khỏi khí rò và dầu.
+- Thiết bị quay tốc độ cao trong nhà máy điện và lọc hóa dầu.
+## So sánh với phớt khí khô
+Phớt vòng carbon có rò rỉ lớn hơn phớt khí khô nên thường dùng ở vị trí ngăn cách hoặc ở thiết bị không yêu cầu rò rỉ cực thấp. Phớt khí khô phù hợp khi cần kiểm soát phát thải nghiêm ngặt.
+## Bảo trì
+Theo dõi lượng khí rò và nhiệt độ vùng phớt, kiểm tra độ mòn vòng và trục theo chu kỳ, thay vòng khi khe hở vượt giới hạn của nhà sản xuất.
+## Tư vấn
+SNS-VN hỗ trợ tư vấn và cung cấp phớt vòng carbon theo thiết bị của bạn. Hãy liên hệ để được báo giá.`],
+['bearing-protector',`Bộ bảo vệ vòng bi (bearing protector, còn gọi bearing isolator) ngăn bụi, nước và tạp chất xâm nhập vào gối đỡ, đồng thời giữ dầu bôi trơn bên trong. Vòng bi hỏng sớm là một trong những nguyên nhân phổ biến gây dừng máy, và nhiễm bẩn là thủ phạm hàng đầu.
+## Nguyên lý hoạt động
+Bộ bảo vệ gồm một phần quay theo trục và một phần đứng yên gắn vào nắp ổ trục. Giữa hai phần là mê cung hoặc khe hở nhỏ, kết hợp rãnh thoát để dầu rò quay về gối đỡ và đẩy tạp chất ra ngoài. Nhiều loại dùng gioăng chuyển động hoặc mặt từ để bịt kín khi máy dừng.
+## Các dạng thường gặp
+- Mê cung không tiếp xúc: đơn giản, bền, ít mài mòn.
+- Bộ cách ly có gioăng chuyển động: bịt kín tốt hơn khi dừng máy.
+- Dạng mặt từ: kín cao, dùng ở nơi môi trường khắc nghiệt.
+## Lợi ích
+- Kéo dài tuổi thọ vòng bi và dầu bôi trơn.
+- Giảm số lần dừng máy do hỏng ổ trục.
+- Hoạt động không tiếp xúc nên ít làm mòn trục.
+- Giảm rò dầu ra môi trường.
+## Ứng dụng
+Bơm, động cơ, hộp số, quạt và máy quay trong nhà máy công nghiệp. Nhiều tiêu chuẩn bơm thường ưu tiên bảo vệ ổ trục dạng không tiếp xúc.
+## Lắp đặt đúng cách
+- Kiểm tra độ nhám, độ đảo và đường kính trục.
+- Lắp cổng thoát ở vị trí thấp nhất.
+- Làm sạch gối đỡ và dùng dầu đúng loại.
+## Sự cố thường gặp
+Trục bị trầy xước, lắp sai hướng cổng thoát, khe hở không đúng hoặc chất bẩn bám làm giảm hiệu quả bảo vệ.
+## Tư vấn
+SNS-VN hỗ trợ tư vấn bộ bảo vệ vòng bi theo kích thước trục và điều kiện môi trường. Hãy liên hệ để được báo giá.`],
+['materials',`Vật liệu làm phớt quyết định khả năng chịu mài mòn, ăn mòn và nhiệt độ của phớt cơ khí. Chọn sai vật liệu có thể làm phớt hỏng chỉ sau vài giờ dù thiết kế rất tốt.
+## Vật liệu mặt phớt
+- Carbon graphite: tự bôi trơn, chịu chạy khô ngắn hạn, thường dùng làm mặt mềm.
+- Silicon carbide (SiC): rất cứng, chịu mài mòn, dẫn nhiệt tốt, có loại thiêu kết và liên kết phản ứng.
+- Tungsten carbide: bền va đập, hợp với môi chất có hạt rắn và áp suất cao.
+- Ceramic alumina: giá thấp, dùng cho nước và hóa chất nhẹ.
+- Mặt phủ kim cương hoặc DLC: giảm ma sát và hạn chế hỏng khi chạy khô.
+## Cặp mặt phớt
+Thông thường một mặt cứng ghép với một mặt mềm, ví dụ SiC với carbon. Với môi chất có hạt rắn, dùng cặp hai mặt cứng như SiC với SiC hoặc tungsten carbide với SiC để chống mài mòn.
+## Gioăng đàn hồi
+- NBR: dùng cho dầu khoáng và nước, giá thấp.
+- EPDM: tốt với nước, hơi nước và một số hóa chất.
+- FKM: chịu dầu, nhiên liệu và nhiệt độ khá cao.
+- FFKM: chịu hầu hết hóa chất và nhiệt độ cao, giá cao.
+- PTFE: trơ hóa học, dùng cho môi chất ăn mòn.
+## Chi tiết kim loại
+Thép không gỉ 316 cho đa số ứng dụng, duplex cho môi trường clorua, hợp kim Hastelloy hoặc Alloy 20 cho axit mạnh. Lò xo và ống xếp cần chọn theo ăn mòn và nhiệt độ.
+## Cách chọn vật liệu
+- Xác định môi chất, nồng độ, nhiệt độ và áp suất.
+- Kiểm tra hạt rắn, khả năng chạy khô và mức độ mài mòn.
+- Đối chiếu bảng tương thích hóa học của nhà sản xuất.
+## Tư vấn
+SNS-VN hỗ trợ tư vấn lựa chọn vật liệu phớt theo môi chất và điều kiện vận hành. Hãy liên hệ để được báo giá.`]
+];
+const PD3=[
+['sealing-components',`Linh kiện làm kín (sealing components) gồm các chi tiết dùng để chế tạo, sửa chữa và thay thế cho phớt cơ khí như vòng mặt phớt, ống xếp, lò xo, gioăng O-ring và các chi tiết kim loại. Chất lượng của từng chi tiết ảnh hưởng trực tiếp đến độ kín và tuổi thọ của cả bộ phớt.
+## Các nhóm linh kiện chính
+- Vòng mặt phớt: vòng động và vòng tĩnh bằng carbon, silicon carbide, tungsten carbide hoặc ceramic.
+- Gioăng đàn hồi: O-ring, gioăng chữ V, gioăng nêm bằng NBR, EPDM, FKM, FFKM hoặc PTFE.
+- Lò xo và ống xếp: tạo lực ép giữa hai mặt phớt, bằng thép không gỉ hoặc hợp kim chịu ăn mòn.
+- Chi tiết kim loại: ống bọc trục, vòng đệm, bu lông, nắp phớt và thân phớt.
+## Vai trò của từng chi tiết
+Cặp mặt phớt tạo màng chất lỏng làm kín chính. Gioăng làm kín các khe hở phụ giữa phớt với trục và thân bơm. Lò xo hoặc ống xếp giữ lực ép ổn định khi trục dịch chuyển hoặc mặt phớt mòn. Chỉ một chi tiết không phù hợp cũng đủ làm cả bộ phớt hỏng sớm.
+## Yêu cầu về gia công
+Mặt phớt cần độ phẳng rất cao, thường đo bằng vài vạch sáng, và độ nhám bề mặt đồng đều. Gioăng cần đúng kích thước, độ cứng và vật liệu. Dung sai của các chi tiết kim loại ảnh hưởng đến độ đồng tâm và độ ổn định khi quay.
+## Khi nào cần thay linh kiện
+- Mặt phớt bị mòn, nứt, trầy xước hoặc xuất hiện vết cháy.
+- Gioăng cứng, nứt, phồng hoặc mất đàn hồi.
+- Lò xo hoặc ống xếp mỏi, gãy hoặc bị ăn mòn.
+- Sau mỗi lần tháo kiểm tra theo khuyến cáo của nhà sản xuất.
+## Cách chọn linh kiện thay thế
+Đối chiếu mã phớt, kích thước và vật liệu gốc với bản vẽ. Chọn vật liệu theo môi chất, nhiệt độ và áp suất, không chỉ theo kích thước. Với phớt quan trọng, nên dùng linh kiện của nhà sản xuất hoặc linh kiện có chứng nhận chất lượng rõ ràng.
+## Ứng dụng
+Bảo trì và sửa chữa phớt tại nhà máy, xưởng cơ khí và các đơn vị dịch vụ bơm.
+## Tư vấn
+SNS-VN hỗ trợ tư vấn và cung cấp linh kiện làm kín theo mã phớt và điều kiện vận hành. Hãy liên hệ và gửi mã phớt hoặc hình ảnh để được báo giá.`],
+['seal-manufacturing-system',`Hệ thống sản xuất phớt (seal manufacturing system) gồm thiết bị và quy trình dùng để gia công, lắp ráp và kiểm tra các chi tiết phớt với độ chính xác cao. Đây là giải pháp dành cho xưởng sửa chữa và nhà sản xuất muốn chủ động chế tạo hoặc phục hồi linh kiện làm kín.
+## Vì sao cần độ chính xác cao
+Mặt phớt làm kín bằng một màng chất lỏng hoặc khí chỉ dày vài micromet, nên sai số về độ phẳng, độ nhám và độ vuông góc đều ảnh hưởng đến hiệu quả làm kín. Quy trình sản xuất vì thế phải có thiết bị chính xác và kiểm soát chất lượng chặt chẽ.
+## Các công đoạn thường có
+- Gia công thô và tinh các chi tiết kim loại trên máy tiện CNC.
+- Gia công vòng mặt phớt bằng vật liệu cứng bằng mài và đánh bóng.
+- Lắp ráp bộ phớt dạng cartridge theo quy trình.
+- Kiểm tra kích thước, độ phẳng và thử kín trước khi xuất xưởng.
+## Thiết bị liên quan
+Máy tiện và trung tâm gia công CNC, máy mài, máy đánh bóng mặt phớt, dụng cụ đo độ phẳng và độ nhám, cùng bàn thử áp suất và thử rò rỉ. Cấu hình cụ thể phụ thuộc vào loại phớt và sản lượng.
+## Lợi ích
+- Chủ động chế tạo và phục hồi linh kiện, rút ngắn thời gian giao hàng.
+- Kiểm soát chất lượng ổn định ở từng công đoạn.
+- Giảm chi phí so với phụ thuộc hoàn toàn vào nhập khẩu.
+- Có thể mở rộng năng lực khi nhu cầu tăng.
+## Những điều cần cân nhắc
+Cần nhân lực kỹ thuật được đào tạo, vật liệu đạt chất lượng và quy trình kiểm tra rõ ràng. Với phớt cho ứng dụng nguy hiểm, nên đối chiếu yêu cầu của tiêu chuẩn và khách hàng trước khi tự sản xuất.
+## Đối tượng phù hợp
+Xưởng cơ khí chính xác, đơn vị sửa chữa bơm, nhà sản xuất phớt và các nhà máy muốn xây dựng năng lực bảo trì nội bộ.
+## Tư vấn
+SNS-VN hỗ trợ tư vấn cấu hình thiết bị và quy trình theo loại phớt và sản lượng. Hãy liên hệ để được báo giá.`]
+];
 const ART=[
 ['product','mechanical-seals-for-pumps',`Phớt cơ khí cho bơm (mechanical seal) là giải pháp làm kín trục quay phổ biến nhất trong bơm ly tâm công nghiệp. Phớt giúp ngăn rò rỉ chất lỏng ra môi trường, giảm thất thoát sản phẩm, hạn chế mài mòn trục và bảo đảm an toàn cho nhà máy. So với bao kín dạng tết (gland packing), phớt cơ khí rò rỉ thấp hơn nhiều, tiêu tốn ít công suất hơn và ít phải bảo dưỡng hơn.
 ## Nguyên lý hoạt động của phớt cơ khí
@@ -660,6 +872,14 @@ async function init(env){if(init.d)return;const q=s=>env.DB.prepare(s);
  if(!await q('SELECT 1 FROM c WHERE type=?1 AND slug=?2').bind('set','seeded9').first()){
   const b=[q("INSERT INTO c VALUES('set','seeded9','','','','',0)")];
   for(const[sl,x]of IND2)b.push(q("UPDATE c SET vi_b=CASE WHEN vi_b LIKE '/img/%' THEN substr(vi_b,1,instr(vi_b,char(10))-1)||char(10)||char(10)||?1 ELSE ?1 END,en_b='' WHERE type='industry' AND slug=?2").bind(x,sl));
+  await env.DB.batch(b)}
+ if(!await q('SELECT 1 FROM c WHERE type=?1 AND slug=?2').bind('set','seeded10').first()){
+  const b=[q("INSERT INTO c VALUES('set','seeded10','','','','',0)")];
+  for(const[sl,x]of PD2)b.push(q("UPDATE c SET vi_b=CASE WHEN vi_b LIKE '/img/%' THEN substr(vi_b,1,instr(vi_b,char(10))-1)||char(10)||char(10)||?1 ELSE ?1 END,en_b='' WHERE type='product' AND slug=?2").bind(x,sl));
+  await env.DB.batch(b)}
+ if(!await q('SELECT 1 FROM c WHERE type=?1 AND slug=?2').bind('set','seeded11').first()){
+  const b=[q("INSERT INTO c VALUES('set','seeded11','','','','',0)")];
+  for(const[sl,x]of PD3)b.push(q("UPDATE c SET vi_b=CASE WHEN vi_b LIKE '/img/%' THEN substr(vi_b,1,instr(vi_b,char(10))-1)||char(10)||char(10)||?1 ELSE ?1 END,en_b='' WHERE type='product' AND slug=?2").bind(x,sl));
   await env.DB.batch(b)}
  init.d=1}
 const one=(env,t,s)=>env.DB.prepare('SELECT * FROM c WHERE type=?1 AND slug=?2').bind(t,s).first();
