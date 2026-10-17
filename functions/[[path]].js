@@ -826,6 +826,170 @@ Thép không gỉ 316 và 316L dùng cho đa số ứng dụng, duplex cho môi 
 ## Sai lầm thường gặp
 Chọn vật liệu chỉ theo giá, bỏ qua nồng độ và nhiệt độ thật của môi chất, quên rằng chạy khô làm hỏng các cặp mặt cứng, hoặc dùng EPDM cho môi chất chứa dầu. Hãy cung cấp đầy đủ thông tin cho SNS-VN để được tư vấn vật liệu phù hợp và báo giá.`]
 ];
+const NX=[
+['quy-trinh-lap-dat-phot-co-khi-10-buoc',`Phần lớn sự cố phớt cơ khí đến từ khâu lắp đặt chứ không phải lỗi sản xuất. Một phớt tốt nhưng lắp sai có thể hỏng chỉ sau vài giờ chạy. Bài viết này trình bày quy trình 10 bước kèm lý do của từng bước để kỹ thuật viên hiểu rõ việc mình làm.
+## Chuẩn bị trước khi lắp
+Đọc bản vẽ và hướng dẫn của nhà sản xuất cho đúng dòng phớt, chuẩn bị dụng cụ sạch, găng tay và chất bôi trơn tương thích. Phớt nên được giữ trong bao bì đến phút cuối để bảo vệ mặt phớt khỏi bụi và va chạm.
+## 10 bước lắp đặt
+- Bước 1, kiểm tra bơm: đo độ đảo trục, độ lệch tâm buồng phớt, độ rơ dọc trục và tình trạng ổ trục. Sai lệch lớn là nguyên nhân hàng đầu gây hỏng phớt.
+- Bước 2, kiểm tra trục và buồng phớt: không có vết xước, bavia, gỉ hoặc rãnh mòn tại vùng gioăng trượt qua.
+- Bước 3, làm sạch toàn bộ chi tiết và vùng làm việc, tránh cát, bụi và mạt kim loại.
+- Bước 4, đối chiếu mã phớt, vật liệu và kích thước với bản vẽ và môi chất thực tế.
+- Bước 5, kiểm tra mặt phớt bằng mắt: không nứt, mẻ, trầy. Không chạm tay trần vào bề mặt làm kín.
+- Bước 6, bôi trơn gioăng bằng chất tương thích với vật liệu gioăng và môi chất, tuyệt đối không dùng dầu mỡ sai loại.
+- Bước 7, lắp phớt lên trục nhẹ nhàng, không dùng búa, tránh làm gioăng bị cắt hoặc xoắn.
+- Bước 8, đặt phớt đúng chiều dài lắp và siết nắp phớt đều, chéo, đúng mô-men.
+- Bước 9, với phớt cartridge, chỉ tháo kẹp định vị sau khi đã siết xong và cố định trục.
+- Bước 10, nối hệ thống phụ trợ, xả khí và cấp chất lỏng đầy đủ cho buồng phớt trước khi khởi động.
+## Những sai sót phổ biến
+- Dùng phớt không đúng vật liệu với môi chất.
+- Quên xả khí, làm phớt chạy khô lúc khởi động.
+- Siết nắp phớt lệch, làm mặt phớt không song song.
+- Lắp trên trục đã mòn hoặc đảo vượt giới hạn.
+## Kiểm tra sau khi lắp
+Quay trục bằng tay để kiểm tra độ nhẹ, chạy thử, theo dõi rò rỉ, nhiệt độ và rung trong những giờ đầu. Một lượng nhỏ hơi ẩm trong thời gian chạy rà là bình thường, rò rỉ tăng dần thì cần dừng kiểm tra.
+## Lưu hồ sơ
+Ghi lại ngày lắp, mã phớt, số lô, các số đo trục và buồng phớt, giúp phân tích khi sự cố xảy ra. Đào tạo kỹ thuật viên lắp đặt là khoản đầu tư hiệu quả. Liên hệ SNS-VN nếu cần hướng dẫn kỹ thuật.
+## Nguồn tham khảo
+Tổng hợp từ thực hành kỹ thuật phổ biến trong lắp đặt phớt cơ khí.`],
+['silicon-carbide-thieu-ket-va-lien-ket-phan-ung',`Silicon carbide (SiC) là vật liệu mặt phớt phổ biến nhờ độ cứng cao, chịu mài mòn, dẫn nhiệt tốt và bền hóa học. Tiêu chuẩn API 682 bản thứ tư chấp nhận cả hai loại SiC làm vật liệu mặt phớt mặc định, nhưng hai loại này khác nhau ở cách chế tạo, cấu trúc và khả năng chịu môi chất.
+## Cách chế tạo SiC liên kết phản ứng (RBSiC)
+Hạt SiC trộn với carbon được tạo hình, sau đó silicon nóng chảy thấm vào các khe rỗng và phản ứng với carbon tạo thêm SiC. Kết quả là một vật liệu đặc, gần như không còn lỗ rỗng nhưng vẫn chứa một lượng silicon tự do liên kết giữa các hạt.
+## Cách chế tạo SiC thiêu kết (SSiC)
+Bột SiC mịn trộn với chất trợ thiêu kết được tạo hình rồi nung ở nhiệt độ rất cao, các hạt kết dính trực tiếp với nhau. Vật liệu thu được hầu như chỉ gồm SiC, không có silicon tự do.
+## So sánh hai loại
+- Chịu hóa chất: SSiC tốt hơn vì không có silicon tự do. RBSiC có thể bị kiềm đậm đặc hoặc một số axit mạnh tấn công.
+- Độ cứng và chịu mài mòn: cả hai đều rất tốt, SSiC thường nhỉnh hơn.
+- Chịu sốc nhiệt: SiC nói chung tốt nhờ dẫn nhiệt cao, tuy nhiên vẫn cần tránh thay đổi nhiệt độ đột ngột.
+- Giá thành: RBSiC thường thấp hơn SSiC.
+## Các biến thể đáng biết
+Có loại SSiC chứa hạt graphite để cải thiện khả năng chịu chạy khô thoáng qua, và loại SiC có lỗ rỗng kiểm soát giúp giữ chất lỏng tại mặt phớt, giảm ma sát. Mỗi loại có ưu nhược riêng nên cần chọn theo dịch vụ.
+## Hạn chế chung của SiC
+SiC là vật liệu giòn nên dễ nứt khi va đập hoặc kẹp không đều. Khi ghép hai mặt SiC với nhau, phớt kém chịu chạy khô hơn so với ghép SiC với carbon.
+## Cách chọn
+- Môi chất ăn mòn mạnh hoặc pH cực đoan: ưu tiên SSiC.
+- Nước, dầu và hydrocarbon thông thường: RBSiC thường đáp ứng và tiết kiệm hơn.
+- Có hạt rắn mài mòn: dùng cặp hai mặt cứng nhưng đảm bảo bôi trơn liên tục.
+## Lưu ý
+Luôn kiểm tra bảng tương thích hóa học của nhà sản xuất cho từng môi chất và nồng độ. Liên hệ SNS-VN để được tư vấn chọn vật liệu.
+## Nguồn tham khảo
+Pumps and Systems, tổng hợp kiến thức vật liệu kỹ thuật phổ biến.`],
+['phot-phu-kim-cuong-loi-ich-va-luu-y',`Mặt phớt phủ kim cương là công nghệ đưa một lớp kim cương rất mỏng lên bề mặt nền, thường là silicon carbide, để tăng độ cứng và giảm ma sát. EagleBurgmann thương mại hóa công nghệ này với tên DiamondFace, còn Advanced Diamond Technologies từng giới thiệu các bề mặt kim cương tối ưu cho điều kiện chạy khô.
+## Cách tạo lớp phủ
+Lớp kim cương thường được lắng đọng từ pha khí lên bề mặt mặt phớt đã chuẩn bị, tạo thành lớp phủ rất mỏng, cỡ vài micromet. Chất lượng bám dính giữa lớp phủ và nền quyết định độ bền của cả mặt phớt.
+## Vì sao được quan tâm
+Chạy khô, mất màng chất lỏng và môi chất chứa hạt rắn là các nguyên nhân phổ biến làm hỏng phớt. Kim cương có độ cứng rất cao và hệ số ma sát thấp, nên về nguyên lý giúp mặt phớt chịu mài mòn tốt hơn và sinh ít nhiệt hơn khi màng chất lỏng bị mất.
+## Những ứng dụng thường được nhắc đến
+- Bơm làm việc với môi chất có hạt rắn hoặc huyền phù.
+- Các dịch vụ dễ bị chạy khô thoáng qua khi khởi động hoặc mất mồi.
+- Chất lỏng kém bôi trơn như nước tinh khiết, khí hóa lỏng.
+## Lưu ý từ giới chuyên môn
+Tạp chí Hydrocarbon Processing từng đăng bài nhắc người mua thận trọng khi xem lớp phủ kim cương là lời giải duy nhất cho chạy khô. Cần xem xét độ bám dính và độ dày lớp phủ, quy trình kiểm soát chất lượng, điều kiện thử nghiệm độc lập, khả năng tương thích với môi chất và nhiệt độ, và chi phí so với lợi ích.
+## Những câu hỏi nên hỏi nhà cung cấp
+- Lớp phủ dùng trên nền vật liệu nào và dày bao nhiêu?
+- Có dữ liệu thử nghiệm chạy khô và thử hạt mài mòn trong điều kiện gần thực tế không?
+- Giới hạn về nhiệt độ, môi chất và áp suất là gì?
+- Có thể sửa chữa hoặc làm mới lớp phủ không?
+## Gợi ý lựa chọn
+So sánh với silicon carbide thiêu kết, SiC chứa graphite và các giải pháp chống chạy khô khác. Xét tổng chi phí vòng đời thay vì chỉ giá mua ban đầu. Liên hệ SNS-VN để được tư vấn.
+## Nguồn tham khảo
+EagleBurgmann, Pumps and Systems, Hydrocarbon Processing, Compound Semiconductor. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['so-do-phu-tro-api-682-piping-plan',`Phớt cơ khí hiếm khi hoạt động riêng lẻ. Hệ thống đường ống phụ trợ quyết định môi trường làm việc của phớt, và API 682 chuẩn hóa chúng thành các sơ đồ (piping plan) đánh số. Hiểu các sơ đồ này giúp bạn đọc bản vẽ và đặt yêu cầu kỹ thuật chính xác hơn.
+## Vai trò của sơ đồ phụ trợ
+Sơ đồ phụ trợ giúp tản nhiệt tại mặt phớt, giữ áp suất đủ cao để mặt phớt không bị bay hơi, loại bỏ hạt rắn khỏi chất lỏng đến phớt, hoặc cấp chất lỏng chặn cho phớt đôi.
+## Nhóm xả và tuần hoàn (phớt đơn)
+- Plan 01, 02: tuần hoàn bên trong hoặc buồng phớt kín không có dòng chảy.
+- Plan 11: dẫn chất lỏng từ cửa xả bơm qua lỗ tiết lưu đến phớt, đơn giản và phổ biến nhất.
+- Plan 13: tuần hoàn ngược từ buồng phớt về cửa hút, hợp bơm đứng và bơm cần xả khí.
+- Plan 21: như Plan 11 nhưng thêm bộ làm mát, dùng cho nhiệt độ cao.
+- Plan 23: vòng bơm trong phớt tuần hoàn chất lỏng qua bộ làm mát, hợp nước nóng và môi chất nhiệt độ cao.
+## Nhóm xử lý chất lỏng
+- Plan 31: dùng cyclone tách hạt rắn khỏi dòng chất lỏng đưa vào phớt.
+- Plan 32: cấp chất lỏng sạch từ nguồn bên ngoài, dùng khi môi chất có hạt rắn hoặc dễ bay hơi.
+## Nhóm cho phớt đôi
+- Plan 52: chất lỏng đệm không tăng áp trong bình chứa, cho phớt đôi không tăng áp.
+- Plan 53A, 53B, 53C: chất lỏng chặn có áp, lần lượt dùng bình chứa, bình tích áp dạng màng và dạng piston.
+- Plan 54: cấp chất lỏng chặn có áp từ hệ thống bên ngoài.
+## Nhóm bổ sung bên ngoài phớt
+Plan 61 và 62 cung cấp cổng nối cho nước hoặc hơi nước làm sạch (quench) và xả phía khí quyển của phớt. Các Plan từ 71 trở đi dành cho cấu hình có khí chặn hoặc khí đệm.
+## Cách chọn sơ đồ
+Cần xét độc tính, khả năng cháy nổ, nhiệt độ, hạt rắn, áp suất hơi bão hòa và yêu cầu phát thải của môi chất. Môi chất càng nguy hiểm thì càng cần cấu hình kín và có áp. Sơ đồ đơn giản hơn nếu dùng được thì luôn tiết kiệm và ít điểm hỏng hơn.
+## Lưu ý
+Hãy đối chiếu với bản API 682 hiện hành khi lập yêu cầu kỹ thuật. Liên hệ SNS-VN để được tư vấn.
+## Nguồn tham khảo
+Tổng hợp từ tiêu chuẩn API 682 và tài liệu kỹ thuật phổ biến trong ngành.`],
+['phan-tich-nguyen-nhan-hong-phot-co-khi',`Thay phớt mới mà không tìm ra nguyên nhân hỏng thường dẫn đến lần hỏng tiếp theo. Phân tích nguyên nhân gốc (root cause analysis) biến mỗi sự cố thành dữ liệu để cải thiện độ tin cậy lâu dài, thay vì chỉ sửa triệu chứng.
+## Bước 1: Giữ nguyên hiện trường
+Trước khi tháo, chụp ảnh và ghi lại tình trạng rò rỉ, nhiệt độ, rung động và thông số vận hành. Không lau sạch mặt phớt và gioăng, vì dấu vết trên đó là bằng chứng.
+## Bước 2: Thu thập thông tin vận hành
+Hỏi người vận hành về các thay đổi gần đây: lưu lượng, áp suất, nhiệt độ, thay đổi môi chất, các lần khởi động hoặc dừng đột ngột, bảo trì trước đó. Nhiều sự cố liên quan đến vận hành ngoài vùng thiết kế của bơm.
+## Bước 3: Kiểm tra bằng mắt
+- Vết cháy xém hoặc nứt nhiệt (heat checking) ở mặt cứng: gợi ý chạy khô hoặc mất màng chất lỏng.
+- Vết mài mòn không đều trên một phía: có thể do lệch trục hoặc rung động.
+- Rãnh mòn sâu và cặn bám: thường do hạt rắn hoặc kết tinh môi chất.
+- Gioăng cứng, nứt hoặc phồng: vật liệu gioăng không hợp nhiệt độ hoặc hóa chất.
+- Carbon bị rỗ, phồng rộp: thường do hóa hơi môi chất trong lòng carbon hoặc nhiệt quá cao.
+## Bước 4: Phân tích các nhóm nguyên nhân
+Vận hành ngoài vùng thiết kế, lắp đặt sai, chọn vật liệu chưa phù hợp, hệ thống phụ trợ hoạt động kém, rung động do ổ trục hoặc căn chỉnh, và hiện tượng kẹt (hang-up) khi phần chuyển động không bù được dịch chuyển.
+## Bước 5: Kiểm chứng giả thuyết
+Đối chiếu dấu vết với dữ liệu vận hành, xem lại thông số bơm và hệ thống phụ trợ. Nếu chưa đủ chắc chắn, có thể gửi mẫu cho nhà sản xuất phân tích chuyên sâu.
+## Bước 6: Hành động khắc phục
+- Khắc phục nguyên nhân gốc trước khi chạy lại.
+- Cập nhật quy trình lắp đặt và kiểm tra.
+- Cân nhắc nâng cấp cấu hình phớt hoặc sơ đồ phụ trợ nếu sự cố lặp lại.
+- Theo dõi hiệu quả sau khi thay đổi.
+## Lưu ý
+Ghi chép kết quả từng lần phân tích để xây dựng kho tri thức nội bộ. Liên hệ SNS-VN nếu cần hỗ trợ phân tích.
+## Nguồn tham khảo
+Tổng hợp từ thực hành kỹ thuật phổ biến trong bảo trì phớt cơ khí.`],
+['chon-phot-don-phot-doi-phot-khi',`Một câu hỏi thường gặp khi chọn phớt cho bơm là nên dùng phớt đơn hay phớt đôi, và khi nào cần khí chặn. Câu trả lời phụ thuộc chủ yếu vào mức độ nguy hiểm của môi chất, yêu cầu phát thải, chi phí và khả năng bảo trì.
+## Phớt đơn (Arrangement 1)
+Phù hợp với chất lỏng không độc hại, không dễ cháy, và rò rỉ nhỏ có thể chấp nhận. Chi phí thấp, hệ thống đơn giản. Hạn chế là nếu phớt hỏng thì môi chất rò ra ngoài ngay, và rò rỉ nhỏ liên tục có thể không được chấp nhận với môi chất có yêu cầu phát thải nghiêm ngặt.
+## Phớt đôi không tăng áp (Arrangement 2)
+Có hai phớt với chất lỏng đệm ở giữa không tăng áp, thường theo Plan 52. Phớt ngoài làm nhiệm vụ dự phòng và rò rỉ phớt trong được thu về bình chứa. Phù hợp khi cần thêm một lớp an toàn nhưng chấp nhận một lượng nhỏ môi chất lọt vào chất lỏng đệm.
+## Phớt đôi tăng áp (Arrangement 3)
+Chất lỏng chặn có áp cao hơn môi chất (Plan 53 hoặc 54) nên môi chất không lọt ra ngoài mà chất lỏng chặn lọt vào quy trình với lượng rất nhỏ. Là lựa chọn cho môi chất độc hại, dễ cháy hoặc yêu cầu phát thải cực thấp, nhưng cần hệ thống phụ trợ phức tạp hơn và chất lỏng chặn tương thích với sản phẩm.
+## Khí chặn và phớt chứa khí
+Một số phớt dùng khí trơ làm lớp chặn thay chất lỏng, phù hợp khi muốn tránh nhiễm chất lỏng chặn vào quy trình hoặc khi cần phớt vận hành khô. Các sơ đồ khí như Plan 72, 74 và 75 thường dùng cho loại này.
+## Khung quyết định theo mức nguy hiểm
+- Môi chất không nguy hiểm, nước, dầu thông thường: ưu tiên phớt đơn.
+- Môi chất có hại vừa, cần thêm dự phòng: phớt đôi không tăng áp.
+- Môi chất độc hại, dễ cháy hoặc phát thải cực thấp: phớt đôi tăng áp.
+- Khi không được phép nhiễm bẩn bằng chất lỏng chặn: phớt có khí chặn.
+## Các yếu tố cần cân nhắc thêm
+- Chi phí đầu tư và chi phí hệ thống phụ trợ.
+- Khả năng bảo trì và nhân lực kỹ thuật.
+- Quy định về an toàn và môi trường áp dụng.
+- Chi phí khi xảy ra rò rỉ so với chi phí tăng cấu hình.
+## Lưu ý
+Phớt đôi không làm tăng độ tin cậy nếu hệ thống phụ trợ không được duy trì đúng. Hãy đối chiếu yêu cầu với API 682 và liên hệ SNS-VN để được tư vấn.
+## Nguồn tham khảo
+Tổng hợp từ khái niệm Arrangement trong API 682 và tài liệu kỹ thuật phổ biến.`],
+['giam-sat-tinh-trang-phot-bao-tri-du-doan',`Nhiều nhà máy vẫn thay phớt theo lịch cố định hoặc chờ đến khi rò rỉ. Giám sát tình trạng cho phép phát hiện sớm hư hỏng và chỉ can thiệp khi thật sự cần, chuyển từ bảo trì bị động sang bảo trì dựa trên dữ liệu.
+## Ba cách tiếp cận bảo trì
+Bảo trì khắc phục sửa khi đã hỏng, dễ gây dừng máy đột xuất. Bảo trì định kỳ thay theo lịch, có thể thay quá sớm hoặc quá muộn. Bảo trì theo tình trạng và dự đoán dựa trên dữ liệu thực tế để quyết định thời điểm can thiệp.
+## Những thông số thường theo dõi
+- Áp suất và nhiệt độ của chất lỏng chặn hoặc đệm.
+- Mức chất lỏng trong bình chứa và tốc độ hao hụt.
+- Lưu lượng khí rò và chênh áp ở phớt khí khô.
+- Nhiệt độ vỏ phớt và rung động của bơm.
+- Dòng điện động cơ và tín hiệu âm hoặc phát xạ âm ở các hệ thống nâng cao.
+## Từ dữ liệu đến cảnh báo
+Cảm biến gửi tín hiệu về bộ thu thập, rồi truyền lên hệ thống điều khiển hoặc phần mềm phân tích. Khi một thông số vượt ngưỡng hoặc xu hướng thay đổi bất thường, hệ thống cảnh báo để bảo trì có kế hoạch thay vì sửa chữa khẩn cấp.
+## Những dấu hiệu có thể phát hiện sớm
+- Mức chất lỏng chặn giảm dần: phớt trong hoặc ngoài đang rò.
+- Nhiệt độ mặt phớt tăng: mất màng bôi trơn hoặc làm mát kém.
+- Lưu lượng khí rò tăng: mặt phớt khí khô đang mòn hoặc bẩn.
+## Các bước triển khai
+- Chọn thiết bị quan trọng và có lịch sử hỏng phớt để bắt đầu.
+- Chọn cảm biến phù hợp vị trí lắp và môi trường.
+- Thu thập dữ liệu nền khi thiết bị hoạt động bình thường để đặt ngưỡng.
+- Tích hợp cảnh báo vào hệ thống điều khiển và đào tạo người vận hành.
+## Lợi ích và lưu ý
+Giảm dừng máy ngoài kế hoạch, kéo dài tuổi thọ phớt nhờ can thiệp đúng thời điểm và có dữ liệu để phân tích khi sự cố xảy ra. Ngưỡng đặt quá chặt sẽ gây báo động giả, quá lỏng sẽ bỏ lỡ cảnh báo. Liên hệ SNS-VN để được tư vấn giải pháp giám sát.
+## Nguồn tham khảo
+Tổng hợp từ thực hành kỹ thuật phổ biến về giám sát tình trạng thiết bị quay.`]
+];
 const ART=[
 ['product','mechanical-seals-for-pumps',`Phớt cơ khí cho bơm (mechanical seal) là giải pháp làm kín trục quay phổ biến nhất trong bơm ly tâm công nghiệp. Phớt giúp ngăn rò rỉ chất lỏng ra môi trường, giảm thất thoát sản phẩm, hạn chế mài mòn trục và bảo đảm an toàn cho nhà máy. So với bao kín dạng tết (gland packing), phớt cơ khí rò rỉ thấp hơn nhiều, tiêu tốn ít công suất hơn và ít phải bảo dưỡng hơn.
 ## Nguyên lý hoạt động của phớt cơ khí
@@ -970,6 +1134,10 @@ async function init(env){if(init.d)return;const q=s=>env.DB.prepare(s);
  if(!M.has('seeded12')){
   const b=[q("INSERT INTO c VALUES('set','seeded12','','','','',0)")];
   for(const[sl,x]of PD4)b.push(q("UPDATE c SET vi_b=CASE WHEN vi_b LIKE '/img/%' THEN substr(vi_b,1,instr(vi_b,char(10))-1)||char(10)||char(10)||?1 ELSE ?1 END,en_b='' WHERE type='product' AND slug=?2").bind(x,sl));
+  await env.DB.batch(b)}
+ if(!M.has('seeded13')){
+  const b=[q("INSERT INTO c VALUES('set','seeded13','','','','',0)")];
+  for(const[sl,x]of NX)b.push(q("UPDATE c SET vi_b=CASE WHEN vi_b LIKE '/img/%' THEN substr(vi_b,1,instr(vi_b,char(10))-1)||char(10)||char(10)||?1 ELSE ?1 END,en_b='' WHERE type='news' AND slug=?2").bind(x,sl));
   await env.DB.batch(b)}
  init.d=1}
 const one=(env,t,s)=>env.DB.prepare('SELECT * FROM c WHERE type=?1 AND slug=?2').bind(t,s).first();
