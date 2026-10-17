@@ -375,6 +375,160 @@ Trong thực tế, nhiều máy nén dùng tổ hợp vòng carbon nổi và ph�
 ## Nguồn tham khảo
 Atlas Copco (tài liệu máy nén CO2), tổng hợp thực hành ngành. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`]
 ];
+const NW6=[
+['lam-kin-bom-khu-man-nuoc-bien-nuoc-muoi','s','Làm kín bơm trong nhà máy khử mặn: thách thức của nước biển và nước muối','Sealing Pumps in Desalination Plants: Seawater and Brine Challenges',`Nhu cầu nước sạch tăng làm số lượng nhà máy khử mặn ngày càng nhiều. Quy trình nhiệt làm bay hơi rồi ngưng tụ nước biển, còn quy trình thẩm thấu ngược (RO) dùng bơm cao áp. Cả hai đều cần rất nhiều bơm và phớt cơ khí đáng tin cậy.
+## Vì sao làm kín khó
+Theo EagleBurgmann, hàm lượng muối cao của nước biển hoặc nước muối đậm đặc, các hóa chất trong nước muối và áp suất lên đến khoảng 60 bar đặt ra yêu cầu rất cao đối với bơm và phớt. Thiết kế và vật liệu của phớt vì vậy quyết định độ tin cậy và an toàn của hệ thống.
+## Định hướng giải pháp
+- Dùng các dòng phớt tiêu chuẩn hóa, thiết kế mô-đun để đáp ứng nhiều loại bơm.
+- Chọn vật liệu chịu ăn mòn của muối và hóa chất.
+- Có sẵn phụ tùng và hỗ trợ kỹ thuật để rút ngắn thời gian dừng máy.
+## Điều cần lưu ý khi chọn phớt
+Cần xác định rõ loại bơm (bơm nạp, bơm cao áp, bơm tuần hoàn nước muối), áp suất tại buồng phớt, hàm lượng cát và hạt rắn, cũng như yêu cầu về bảo trì.
+## Nguồn tham khảo
+EagleBurgmann (trang giải pháp cho nhà máy khử mặn). Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['du-an-khu-man-plan-32-cyclone','s','Các nhà máy khử mặn thực tế: Plan 32, tách cát bằng cyclone và phớt cho bơm cao áp','Real Desalination Projects: Plan 32, Cyclone Separators and High-Pressure Pump Seals',`Các dự án tham chiếu do EagleBurgmann công bố cho thấy cách làm kín thực tế tại một số nhà máy khử mặn trên thế giới.
+## Một số ví dụ
+- Nhà máy Tuaspring có công suất 318.500 mét khối nước uống mỗi ngày, được mô tả là lớn nhất Đông Nam Á, dùng nhiều bơm chìm Sulzer để lấy nước biển.
+- Nhà máy La Caleta ở Tenerife, Tây Ban Nha, sản xuất 10.000 mét khối mỗi ngày, đáp ứng khoảng 40% nhu cầu của các cộng đồng xung quanh. Năm bơm tăng áp cao áp Sulzer ZF-200 dùng phớt dòng SHV, với áp suất buồng phớt 55 bar và tốc độ 1.679 vòng mỗi phút.
+- Nhà máy Sur ở Oman dùng bơm nhiều tầng cao áp cho quy trình thẩm thấu ngược, làm kín bằng phớt SHV2.
+## Hai kỹ thuật phụ trợ đáng chú ý
+- Phớt cartridge Cartex-QN theo Plan 32 (cấp chất lỏng sạch từ bên ngoài) cho bơm làm việc với nước có tạp chất.
+- Bộ tách cyclone ở Plan 11 để loại cát khỏi dòng chất lỏng đến phớt khi nước có nhiều cát.
+## Bài học
+Chọn đúng sơ đồ phụ trợ theo điều kiện thực tế (cát, áp suất, tốc độ) quan trọng không kém việc chọn bản thân phớt.
+## Nguồn tham khảo
+Trang dự án tham chiếu của EagleBurgmann. Số liệu do hãng công bố. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['phot-cho-bom-ro-ksb-4hg-sulzer-mbn-ro','s','Phớt cho bơm RO: thiết kế của KSB và cách Sulzer giảm số phớt cần dùng','Seals for RO Pumps: KSB Design and How Sulzer Reduces Seal Count',`Bơm thẩm thấu ngược (RO) làm việc với nước biển ở áp suất cao. Một số nhà sản xuất bơm chọn cách thiết kế riêng cho phớt hoặc giảm số lượng phớt cần dùng.
+## Phớt 4HG của KSB
+Theo tài liệu của KSB, phớt 4HG là phớt đơn cân bằng, thiết kế động, dành cho dòng bơm HGM-RO trong ứng dụng nước biển, nhiệt độ chất lỏng tối đa 220 độ C. Ống bảo vệ trục được tích hợp trong phớt, cấu hình nhiều lò xo cho độ bền cao. Thiết kế mô-đun giúp lắp đặt không cần dụng cụ định vị hay điều chỉnh kích thước, bảo đảm lực ép đúng.
+## Bơm MBN-RO của Sulzer
+Theo tài liệu giới thiệu của Sulzer, bơm nhiều tầng MBN-RO có phớt cơ khí tích hợp ở phía truyền động (phía áp suất thấp) và không dùng phớt cơ khí ở phía áp suất cao, giúp bơm gọn và giảm điểm có nguy cơ rò rỉ.
+## Điều người dùng có thể rút ra
+- Thiết kế phớt gắn liền với thiết kế bơm giúp đơn giản lắp đặt.
+- Giảm số lượng phớt là cách giảm rủi ro rò rỉ.
+- Khi thay phớt, nên ưu tiên phớt tương thích với kích thước buồng phớt gốc.
+## Nguồn tham khảo
+KSB, Sulzer. Thông số do hãng công bố. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['phot-don-toc-do-cao-bom-ep-nuoc','s','Vì sao phớt đơn tốc độ cao hay hỏng trong bơm ép nước biển','Why High-Speed Single Seals Often Fail in Seawater Injection Pumps',`Một tài liệu kỹ thuật của bộ phận phớt Flowserve phân tích trường hợp phớt đơn (Arrangement 1) làm việc ngắn hạn trong bơm ép nước biển tốc độ cao, và rút ra các bài học đáng chú ý.
+## Điều kiện làm việc khắc nghiệt
+Bơm ép nước thường là bơm thùng áp suất cao, tốc độ cao. Tốc độ chu vi lớn tạo lực ly tâm đáng kể và dòng chảy nhanh quanh phớt, khiến phớt chịu điều kiện nặng nề.
+## Những phát hiện chính
+- Phớt có tuổi thọ ngắn và mặt phớt mòn nặng.
+- Áp suất buồng phớt phải duy trì đủ cao, thường nhờ bơm tăng áp ở phía hút, để tránh mặt phớt bị khô.
+- Lúc khởi động, nếu áp suất chưa đủ, mặt phớt có thể chịu tác động tương tự như chạy khô.
+## Hướng khắc phục
+Kiểm tra quy trình khởi động và áp suất hút, chọn công nghệ mặt phớt phù hợp tốc độ cao thay vì mặt phẳng thông thường, và duy trì điều kiện buồng phớt ổn định.
+## Điều cần lưu ý
+Đây là phân tích từ một tài liệu kỹ thuật cụ thể, kết quả thực tế thay đổi theo từng bơm.
+## Nguồn tham khảo
+Tài liệu kỹ thuật của Flowserve về phớt Arrangement 1 trong dịch vụ ép nước. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['quy-trinh-lap-dat-phot-co-khi-10-buoc','s','10 bước lắp đặt phớt cơ khí đúng cách để tránh hỏng sớm','10 Steps to Install a Mechanical Seal Correctly and Avoid Early Failure',`Phần lớn sự cố phớt cơ khí đến từ khâu lắp đặt. Tuân thủ một quy trình rõ ràng giúp tăng tuổi thọ phớt.
+## Trước khi lắp
+- Kiểm tra bơm: độ đảo trục, độ lệch tâm, độ rơ dọc trục và tình trạng ổ trục.
+- Làm sạch trục và buồng phớt, kiểm tra vết xước và bavia.
+- Đối chiếu mã phớt, vật liệu và kích thước với bản vẽ.
+## Trong khi lắp
+- Giữ mặt phớt sạch, không chạm tay trực tiếp vào bề mặt làm kín.
+- Bôi trơn gioăng bằng chất tương thích, không dùng dầu mỡ không phù hợp.
+- Lắp phớt cartridge theo hướng dẫn, chỉ tháo kẹp định vị sau khi siết xong.
+- Siết bu lông đều và đúng mô-men.
+## Sau khi lắp
+- Xả khí và cấp chất lỏng đầy đủ cho buồng phớt trước khi chạy.
+- Kiểm tra hệ thống phụ trợ và đường xả.
+- Chạy thử, theo dõi rò rỉ, nhiệt độ và rung động.
+## Lưu ý
+Luôn làm theo hướng dẫn của nhà sản xuất cho từng dòng phớt. Đào tạo kỹ thuật viên lắp đặt là khoản đầu tư hiệu quả.
+## Nguồn tham khảo
+Tổng hợp từ thực hành kỹ thuật phổ biến trong lắp đặt phớt cơ khí.`],
+['silicon-carbide-thieu-ket-va-lien-ket-phan-ung','s','Silicon carbide thiêu kết và liên kết phản ứng: khác nhau thế nào','Sintered vs Reaction-Bonded Silicon Carbide: What Is the Difference',`Silicon carbide (SiC) là vật liệu mặt phớt phổ biến nhờ độ cứng cao, chịu mài mòn và dẫn nhiệt tốt. Tiêu chuẩn API 682 bản thứ tư chấp nhận cả hai loại SiC làm vật liệu mặt phớt mặc định. Tuy nhiên hai loại này có điểm khác nhau cần biết.
+## SiC liên kết phản ứng (RBSiC)
+Được tạo ra bằng cách cho silicon nóng chảy thấm vào hỗn hợp SiC và carbon. Sản phẩm chứa một lượng silicon tự do. Ưu điểm là chi phí thấp hơn, nhưng silicon tự do có thể bị tấn công bởi một số hóa chất mạnh như kiềm đậm đặc hoặc axit đặc biệt.
+## SiC thiêu kết (SSiC)
+Được thiêu kết ở nhiệt độ rất cao không có silicon tự do. Chịu ăn mòn hóa học tốt hơn và phù hợp nhiều loại môi chất hơn, thường có giá cao hơn.
+## Cách chọn
+- Môi chất ăn mòn mạnh hoặc pH cực đoan: ưu tiên SSiC.
+- Dịch vụ thông thường với nước hoặc hydrocarbon: RBSiC thường đáp ứng tốt.
+- Luôn kiểm tra bảng tương thích hóa học của nhà sản xuất.
+## Nguồn tham khảo
+Pumps and Systems, tổng hợp kiến thức vật liệu kỹ thuật phổ biến. Bài viết do SNS-VN tổng hợp.`]
+];
+const IND2=[
+['petrochemicals-and-chemicals',`Ngành hóa dầu và hóa chất vận hành liên tục với những môi chất ăn mòn, độc hại, dễ cháy hoặc có độ nhớt cao. Một phớt cơ khí được chọn đúng giúp giảm rò rỉ, bảo vệ người vận hành và môi trường, đồng thời kéo dài thời gian giữa hai lần bảo dưỡng. Bài viết này tổng hợp những điểm cần cân nhắc khi chọn giải pháp làm kín cho bơm, máy khuấy và máy nén trong nhà máy hóa dầu và hóa chất.
+## Đặc thù của ngành hóa dầu và hóa chất
+Trong cùng một nhà máy có thể gặp hàng chục loại môi chất khác nhau, từ dung môi, axit, kiềm đến monome và polymer. Điều kiện vận hành thay đổi theo từng công đoạn, vì vậy không có một loại phớt phù hợp cho tất cả. Việc chọn phớt cần dựa trên thành phần thực tế của môi chất, nhiệt độ, áp suất và yêu cầu an toàn.
+## Các nhóm môi chất và thách thức thường gặp
+- Axit và kiềm mạnh: ăn mòn vật liệu mặt phớt, gioăng và chi tiết kim loại.
+- Dung môi và hydrocarbon dễ cháy: nguy cơ cháy nổ nếu rò rỉ, yêu cầu phát thải rất thấp.
+- Môi chất độc hại: cần cấu hình phớt đôi để ngăn tuyệt đối môi chất ra ngoài.
+- Polymer và chất lỏng nhớt: dễ đóng cặn hoặc kết tinh tại mặt phớt khi nhiệt độ thay đổi.
+- Huyền phù chứa hạt rắn: mài mòn mặt phớt nhanh nếu không có biện pháp xả hoặc lọc.
+## Cấu hình phớt theo mức độ nguy hiểm
+Với môi chất ít nguy hiểm, phớt đơn kèm sơ đồ xả đơn giản như Plan 11 hoặc làm mát như Plan 21 và Plan 23 thường đủ. Với môi chất nguy hiểm vừa, phớt đôi không tăng áp theo Plan 52 tạo thêm một lớp dự phòng. Với môi chất độc hại hoặc dễ cháy, phớt đôi tăng áp theo Plan 53 hoặc Plan 54 cho phép chất lỏng chặn luôn có áp cao hơn môi chất nên môi chất không thoát ra ngoài. Các cấu hình này được chuẩn hóa trong API 682.
+## Vật liệu cần chú ý
+Mặt phớt thường dùng silicon carbide thiêu kết cho môi chất ăn mòn mạnh, hoặc tungsten carbide khi cần độ bền va đập. Gioăng phụ có thể dùng FFKM, PTFE hoặc các loại elastomer chịu hóa chất, còn chi tiết kim loại có thể là thép không gỉ 316L, duplex hoặc hợp kim Hastelloy tùy mức độ ăn mòn. Cần đối chiếu bảng tương thích hóa học của nhà sản xuất cho từng môi chất.
+## Phớt cho máy khuấy và bồn phản ứng
+Máy khuấy có trục dài, dễ rung và lệch trục, thường làm việc trong chân không hoặc dưới áp suất. Phớt đôi dạng cartridge kèm chất lỏng chặn là lựa chọn phổ biến vì ngăn môi chất ra ngoài và ngăn không khí hoặc chất lỏng chặn lọt vào sản phẩm khi cần.
+## Quản lý phát thải và an toàn
+Nhiều nhà máy áp dụng chương trình phát hiện và sửa rò rỉ (LDAR) để kiểm soát phát thải VOC. Phớt có hệ thống giám sát áp suất, nhiệt độ và mức chất lỏng chặn giúp phát hiện sớm bất thường trước khi rò rỉ lan rộng.
+## Sự cố thường gặp
+- Kết tinh hoặc đóng cặn tại mặt phớt khi dừng máy.
+- Hơi hóa chất lỏng tại mặt phớt do nhiệt sinh ra.
+- Ăn mòn kẽ và ăn mòn ứng suất ở chi tiết kim loại.
+- Sốc nhiệt khi thay đổi nhiệt độ đột ngột.
+## Thông tin cần cung cấp khi yêu cầu báo giá
+- Tên và nồng độ môi chất, độ nhớt, hàm lượng hạt rắn.
+- Nhiệt độ và áp suất tại buồng phớt.
+- Loại bơm hoặc máy khuấy, kích thước trục, tốc độ quay.
+- Yêu cầu về tiêu chuẩn, phát thải và an toàn.
+## Tư vấn giải pháp làm kín cho nhà máy hóa dầu và hóa chất
+SNS-VN hỗ trợ tư vấn lựa chọn phớt cơ khí, hệ thống phụ trợ và dịch vụ bảo trì cho các nhà máy hóa dầu, hóa chất, phân bón và polymer. Hãy liên hệ để được tư vấn theo điều kiện cụ thể của bạn.`],
+['power',`Ngành điện lực, từ nhiệt điện than, điện khí đến các nhà máy điện công nghiệp, phụ thuộc vào hàng trăm bơm, quạt và máy nén làm việc liên tục. Một sự cố phớt ở thiết bị quan trọng có thể buộc tổ máy giảm tải hoặc dừng ngoài kế hoạch, gây thiệt hại lớn. Bài viết này trình bày các ứng dụng phớt cơ khí chính trong nhà máy điện và những điểm cần lưu ý khi lựa chọn.
+## Các thiết bị quay quan trọng trong nhà máy điện
+- Bơm cấp nước nồi hơi: cấp nước ở nhiệt độ và áp suất cao cho lò hơi.
+- Bơm nước ngưng và bơm tuần hoàn nước làm mát.
+- Bơm bùn của hệ thống khử lưu huỳnh khí thải (FGD).
+- Bơm tro xỉ và các bơm vận chuyển môi chất mài mòn.
+- Máy nén khí nhiên liệu cho tua-bin khí và máy nén khí công nghiệp.
+## Bơm cấp nước nồi hơi: điều kiện khắc nghiệt
+Nước cấp nồi hơi có nhiệt độ cao, gần điểm sôi nên dễ hóa hơi tại mặt phớt nếu làm mát không đủ. Phớt cho dịch vụ này thường dùng cấu hình chịu nhiệt như phớt ống xếp kim loại, kết hợp sơ đồ phụ trợ làm mát như Plan 23 để giữ nhiệt độ mặt phớt ổn định. Chất lượng nước và quy trình khởi động ảnh hưởng trực tiếp đến tuổi thọ phớt.
+## Bơm bùn khử lưu huỳnh (FGD)
+Bùn đá vôi trong hệ thống FGD chứa hạt rắn mài mòn và có tính ăn mòn. Phớt cho bơm bùn cần mặt phớt cứng như silicon carbide, thiết kế chống kẹt hạt và dòng xả sạch để bảo vệ mặt phớt, ví dụ sơ đồ Plan 32 hoặc nước làm sạch bên ngoài. Phớt dạng chia đôi cũng được dùng để giảm thời gian bảo trì.
+## Phớt vòng carbon cho tua-bin và thiết bị quay tốc độ cao
+Phớt vòng carbon phân đoạn được dùng phổ biến cho tua-bin hơi và máy nén tốc độ cao nhờ chịu nhiệt và tốc độ tốt, đồng thời hạn chế khí hoặc hơi lọt dọc trục.
+## Điện khí và máy nén
+Các nhà máy điện khí dùng máy nén khí nhiên liệu, và nhiều nơi lựa chọn phớt khí khô để giảm rò rỉ và bỏ hệ thống dầu làm kín. Hệ thống khí cấp cho phớt cần sạch, khô và đúng áp suất.
+## Bảo trì theo cơ hội dừng máy
+Nhà máy điện thường lên kế hoạch bảo trì theo kỳ đại tu. Việc chuẩn bị sẵn phớt dạng cartridge dự phòng, lập danh mục phụ tùng và đào tạo kỹ thuật viên giúp rút ngắn thời gian dừng máy.
+## Lợi ích kinh tế
+- Giảm nguy cơ dừng tổ máy ngoài kế hoạch.
+- Giảm tiêu hao nước làm mát và nước xả.
+- Giảm chi phí bảo trì nhờ tuổi thọ phớt cao hơn.
+## Tư vấn giải pháp làm kín cho nhà máy điện
+SNS-VN hỗ trợ tư vấn lựa chọn phớt cơ khí, phớt vòng carbon, phớt khí khô và hệ thống phụ trợ cho nhiệt điện, điện khí và các nhà máy điện công nghiệp. Hãy liên hệ để được báo giá.`],
+['other-industries',`Bên cạnh dầu khí, hóa chất và điện lực, phớt cơ khí còn xuất hiện ở rất nhiều ngành công nghiệp khác, mỗi ngành có yêu cầu riêng về vệ sinh, mài mòn, độ bền và chi phí. Bài viết này giới thiệu các ngành thường gặp và những điều cần lưu ý khi chọn phớt.
+## Dược phẩm và thực phẩm
+Yêu cầu hàng đầu là vệ sinh và không nhiễm bẩn sản phẩm. Phớt cần có vật liệu đạt tiêu chuẩn tiếp xúc thực phẩm hoặc dược phẩm, bề mặt dễ làm sạch và chịu được quy trình vệ sinh tại chỗ (CIP) và tiệt trùng bằng hơi (SIP). Với quy trình vô trùng, phớt đôi có chất lỏng chặn là nước hoặc hơi thường được dùng để ngăn vi sinh xâm nhập.
+## Khai khoáng và xi măng
+Môi trường có bụi, cát và hạt rắn gây mài mòn rất mạnh. Mặt phớt bằng silicon carbide hoặc tungsten carbide và thiết kế chống kẹt hạt giúp tăng tuổi thọ. Với bơm bùn cỡ lớn, phớt dạng chia đôi và dòng xả nước sạch là các giải pháp phổ biến.
+## Cấp thoát nước và xử lý nước thải
+Bơm nước sạch yêu cầu phớt đơn giản, giá hợp lý, còn bơm nước thải cần phớt chịu được sợi, cặn và chất rắn lơ lửng. Phớt chia đôi giúp bảo trì thuận tiện cho các bơm lớn khó tháo rời.
+## Giấy và bột giấy
+Bột giấy có sợi và nồng độ cao có thể làm tắc, kẹt phớt. Cần thiết kế phớt có không gian rộng cho sợi, dòng xả sạch và vật liệu chống mài mòn.
+## Đóng tàu và hàng hải
+Phớt cho hệ thống đẩy tàu và các bơm dằn tàu phải chịu nước biển, rung động và điều kiện lắp đặt chật hẹp. Phớt chia đôi và vật liệu chống ăn mòn nước biển là lựa chọn thường gặp.
+## Hầm ngầm và thi công
+Máy đào hầm (TBM) cần phớt bảo vệ ổ đỡ chính khỏi bùn, đất và nước dưới áp suất cao, đòi hỏi độ bền và khả năng chịu mài mòn rất cao.
+## Thép và luyện kim
+Các bơm nước làm mát, bơm tẩy gỉ và bơm xử lý nước có hạt rắn hoặc nhiệt độ cao cần phớt chịu nhiệt và mài mòn.
+## Gợi ý chung khi chọn phớt cho ngành đặc thù
+- Xác định rõ yêu cầu riêng của ngành: vệ sinh, mài mòn hay ăn mòn.
+- Chọn vật liệu mặt phớt và gioăng phù hợp môi chất và quy trình vệ sinh.
+- Ưu tiên phớt dạng cartridge hoặc phớt chia đôi khi thiết bị khó bảo trì.
+- Xét tổng chi phí vòng đời thay vì chỉ giá mua.
+## Tư vấn theo từng ngành
+SNS-VN hỗ trợ tư vấn lựa chọn phớt cơ khí cho nhiều ngành công nghiệp khác nhau. Hãy liên hệ và cho chúng tôi biết môi chất, thiết bị và điều kiện vận hành để được tư vấn phù hợp.`]
+];
 const ART=[
 ['product','mechanical-seals-for-pumps',`Phớt cơ khí cho bơm (mechanical seal) là giải pháp làm kín trục quay phổ biến nhất trong bơm ly tâm công nghiệp. Phớt giúp ngăn rò rỉ chất lỏng ra môi trường, giảm thất thoát sản phẩm, hạn chế mài mòn trục và bảo đảm an toàn cho nhà máy. So với bao kín dạng tết (gland packing), phớt cơ khí rò rỉ thấp hơn nhiều, tiêu tốn ít công suất hơn và ít phải bảo dưỡng hơn.
 ## Nguyên lý hoạt động của phớt cơ khí
@@ -497,6 +651,15 @@ async function init(env){if(init.d)return;const q=s=>env.DB.prepare(s);
   const b=[q("INSERT INTO c VALUES('set','seeded7','','','','',0)")];let n=70;
   const im=(sl,k)=>{const id='i_'+sl.replace(/-/g,'_');b.push(q("INSERT OR REPLACE INTO im VALUES(?1,'image/svg+xml',?2)").bind(id,btoa(ILL(k,190+(n++*13)%60))));return'/img/'+id};
   let ts=Date.now()+4000;for(const[sl,k,vt,et,x]of NW5)b.push(q('INSERT OR IGNORE INTO c VALUES(?1,?2,?3,?4,?5,?6,?7)').bind('news',sl,vt,im(sl,k)+'\n\n'+x,et,'',ts--));
+  await env.DB.batch(b)}
+ if(!await q('SELECT 1 FROM c WHERE type=?1 AND slug=?2').bind('set','seeded8').first()){
+  const b=[q("INSERT INTO c VALUES('set','seeded8','','','','',0)")];let n=80;
+  const im=(sl,k)=>{const id='i_'+sl.replace(/-/g,'_');b.push(q("INSERT OR REPLACE INTO im VALUES(?1,'image/svg+xml',?2)").bind(id,btoa(ILL(k,190+(n++*13)%60))));return'/img/'+id};
+  let ts=Date.now()+5000;for(const[sl,k,vt,et,x]of NW6)b.push(q('INSERT OR IGNORE INTO c VALUES(?1,?2,?3,?4,?5,?6,?7)').bind('news',sl,vt,im(sl,k)+'\n\n'+x,et,'',ts--));
+  await env.DB.batch(b)}
+ if(!await q('SELECT 1 FROM c WHERE type=?1 AND slug=?2').bind('set','seeded9').first()){
+  const b=[q("INSERT INTO c VALUES('set','seeded9','','','','',0)")];
+  for(const[sl,x]of IND2)b.push(q("UPDATE c SET vi_b=CASE WHEN vi_b LIKE '/img/%' THEN substr(vi_b,1,instr(vi_b,char(10))-1)||char(10)||char(10)||?1 ELSE ?1 END,en_b='' WHERE type='industry' AND slug=?2").bind(x,sl));
   await env.DB.batch(b)}
  init.d=1}
 const one=(env,t,s)=>env.DB.prepare('SELECT * FROM c WHERE type=?1 AND slug=?2').bind(t,s).first();
