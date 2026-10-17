@@ -741,6 +741,91 @@ Xưởng cơ khí chính xác, đơn vị sửa chữa bơm, nhà sản xuất p
 ## Tư vấn
 SNS-VN hỗ trợ tư vấn cấu hình thiết bị và quy trình theo loại phớt và sản lượng. Hãy liên hệ để được báo giá.`]
 ];
+const PD4=[
+['engineered-seals',`Phớt thiết kế theo yêu cầu (engineered seals) được phát triển riêng cho những điều kiện đặc biệt mà phớt tiêu chuẩn khó đáp ứng như tốc độ, áp suất hoặc nhiệt độ rất cao, môi chất đặc thù hoặc không gian lắp đặt hạn chế.
+## Khi nào cần phớt thiết kế riêng
+Phớt tiêu chuẩn được tối ưu cho phần lớn ứng dụng thông thường. Khi thiết bị nằm ngoài dải đó, hoặc phớt tiêu chuẩn hỏng lặp lại nhiều lần, thiết kế riêng sẽ hiệu quả hơn về lâu dài.
+## Quy trình thiết kế
+- Thu thập thông số vận hành: môi chất, áp suất, nhiệt độ, tốc độ, kích thước trục và buồng phớt.
+- Phân tích điều kiện làm việc và các rủi ro như bay hơi, kết tinh, hạt rắn.
+- Đề xuất cấu hình, vật liệu và hệ thống phụ trợ phù hợp.
+- Chế tạo mẫu, kiểm tra kích thước và thử nghiệm khi cần.
+- Lắp đặt, theo dõi vận hành và hiệu chỉnh.
+## Các điều kiện đặc biệt thường gặp
+- Tốc độ chu vi lớn gây lực ly tâm và nhiệt sinh ra tại mặt phớt.
+- Áp suất rất cao làm biến dạng mặt phớt.
+- Nhiệt độ rất cao hoặc rất thấp, ví dụ khí hóa lỏng.
+- Môi chất ăn mòn mạnh, nhiều hạt rắn hoặc dễ kết tinh.
+- Buồng phớt nhỏ hoặc không theo kích thước tiêu chuẩn.
+## Phân tích và thử nghiệm
+Thiết kế riêng thường dựa trên tính toán biến dạng và nhiệt của mặt phớt, phân tích dòng chảy quanh phớt và kiểm tra thực nghiệm. Việc này giúp dự đoán sớm nguy cơ rò rỉ, quá nhiệt hoặc mài mòn.
+## Cải tiến phớt đang gặp sự cố
+Nếu một phớt hỏng lặp lại, cần phân tích nguyên nhân gốc trước, sau đó điều chỉnh vật liệu, hình học mặt phớt, hệ thống xả hoặc làm mát, thay vì chỉ thay phớt giống cũ.
+## Lợi ích
+- Làm kín đáng tin cậy trong điều kiện khắc nghiệt.
+- Giảm dừng máy và chi phí bảo trì lâu dài.
+- Phù hợp với thiết bị đặc thù hoặc cải tạo.
+## Lưu ý
+Phớt thiết kế riêng thường cần thời gian chế tạo dài hơn và chi phí ban đầu cao hơn. Hãy cung cấp thông tin đầy đủ để rút ngắn thời gian thiết kế.
+## Tư vấn
+SNS-VN hỗ trợ khảo sát và tư vấn phớt thiết kế theo yêu cầu cho thiết bị quay đặc thù trong dầu khí, hóa dầu và năng lượng. Hãy liên hệ để được hỗ trợ.`],
+['rotary-jet-pumps',`Bơm phun tia quay (rotary jet pump, còn gọi bơm ống pitot) là loại bơm có vỏ quay kết hợp ống pitot đứng yên, phù hợp với lưu lượng nhỏ nhưng cột áp cao. Cấu tạo gọn và ít chi tiết chuyển động giúp bơm được dùng trong nhiều dịch vụ mà bơm ly tâm nhiều tầng khó đáp ứng kinh tế.
+## Nguyên lý hoạt động
+Chất lỏng đi vào vỏ quay và quay cùng vỏ, tạo thành một vòng chất lỏng chịu lực ly tâm nên có áp suất cao ở vùng ngoài. Ống pitot đứng yên đặt trong vòng chất lỏng này thu lại áp suất và dẫn chất lỏng ra cửa xả. Cột áp cao đạt được nhờ chỉ một tầng quay thay vì nhiều tầng cánh.
+## Đặc điểm nổi bật
+- Cột áp cao với lưu lượng nhỏ.
+- Cấu tạo gọn, ít chi tiết quay, bảo trì tương đối đơn giản.
+- Hoạt động ổn định ở lưu lượng thấp mà bơm ly tâm dễ gặp vấn đề.
+- Có thể xử lý chất lỏng có độ nhớt hoặc hạt nhỏ tốt hơn một số loại bơm khác.
+## Phớt cho bơm phun tia quay
+Theo nhiều nhà sản xuất, ở loại bơm này phớt thường chịu áp suất hút thấp hơn nhiều so với áp suất đẩy, nên điều kiện làm kín dễ hơn bơm nhiều tầng. Vẫn cần chọn phớt theo môi chất, nhiệt độ và tốc độ quay, và kiểm tra các sơ đồ xả, làm mát phù hợp.
+## Ứng dụng điển hình
+- Cấp nước nồi hơi và nước ngưng.
+- Hệ thống thẩm thấu ngược và xử lý nước.
+- Dịch vụ hóa chất cần cột áp cao, lưu lượng thấp.
+- Rửa áp lực và các hệ thống cấp liệu.
+## So sánh với bơm ly tâm
+Ở lưu lượng rất nhỏ và cột áp cao, bơm phun tia quay thường gọn và ít tầng hơn. Ở lưu lượng lớn, bơm ly tâm thường đạt hiệu suất cao hơn, nên cần so sánh theo điểm vận hành thực tế.
+## Bảo trì
+Theo dõi rung động, nhiệt độ và rò rỉ phớt, kiểm tra độ mòn của ống pitot và vỏ quay theo chu kỳ và giữ chất lỏng sạch.
+## Tư vấn
+SNS-VN hỗ trợ tư vấn lựa chọn bơm phun tia quay và phớt theo điểm vận hành của bạn. Hãy liên hệ để được báo giá.`],
+['materials',`Vật liệu là yếu tố quyết định phớt chịu được mài mòn, ăn mòn và nhiệt độ đến mức nào. Bài viết này giới thiệu các nhóm vật liệu chính dùng trong phớt cơ khí để bạn hiểu rộng hơn khi đọc thông số kỹ thuật và chọn phớt.
+## Vì sao vật liệu quan trọng
+Một bộ phớt gồm nhiều chi tiết làm từ các vật liệu khác nhau, mỗi chi tiết chịu một kiểu tải khác nhau. Chỉ cần một vật liệu không tương thích với môi chất hoặc nhiệt độ là cả bộ phớt có thể hỏng sớm, dù thiết kế rất tốt.
+## Carbon graphite
+Là vật liệu mềm, tự bôi trơn, chịu được chạy khô trong thời gian ngắn và ít làm hỏng mặt đối tiếp, nên thường dùng làm mặt mềm. Carbon được tẩm nhựa hoặc kim loại như antimon để tăng độ bền, độ kín và khả năng chống mòn. Hạn chế là khó chịu các chất oxy hóa mạnh và có thể phồng hoặc nứt nếu tẩm không phù hợp.
+## Silicon carbide và gốm kỹ thuật
+Silicon carbide (SiC) rất cứng, chịu mài mòn, dẫn nhiệt tốt và chịu được hầu hết hóa chất. Loại liên kết phản ứng chứa silicon tự do nên giá thấp hơn nhưng kém bền với kiềm mạnh, loại thiêu kết chịu hóa chất tốt hơn. Gốm alumina rẻ hơn, hợp với nước và hóa chất nhẹ nhưng kém chịu sốc nhiệt. Silicon nitride cũng được dùng khi cần độ bền va đập cao.
+## Tungsten carbide
+Hợp kim cứng gồm hạt carbide liên kết bằng coban hoặc niken. Rất bền va đập và chịu tải nặng, phù hợp với môi chất có hạt rắn và áp suất cao. Loại dùng chất liên kết niken chịu ăn mòn tốt hơn loại dùng coban.
+## Lớp phủ bề mặt
+Lớp phủ kim cương hoặc DLC giảm ma sát và tăng khả năng chịu chạy khô, còn các lớp phủ cứng như chrome oxide hoặc stellite tăng khả năng chống mòn cho ống bọc trục và chi tiết kim loại.
+## Elastomer làm gioăng
+Phần lớn gioăng phụ là elastomer, mỗi loại hợp với một nhóm môi chất và dải nhiệt độ gần đúng (thay đổi theo từng công thức):
+- NBR và HNBR: dầu khoáng, nhiên liệu, nước, từ khoảng -30 đến 120 độ C, HNBR cao hơn.
+- EPDM: nước, hơi nước, kiềm, axit loãng, không dùng với dầu khoáng.
+- FKM: dầu, nhiên liệu, nhiều hóa chất, đến khoảng 200 độ C.
+- FFKM: chịu gần như mọi hóa chất và nhiệt độ rất cao, giá cao.
+- Silicone: dải nhiệt rộng, dùng trong thực phẩm và dược phẩm, kém chịu mài mòn.
+## Polymer kỹ thuật
+PTFE trơ với hầu hết hóa chất và chịu nhiệt khoảng 260 độ C, thường được độn thủy tinh, carbon hoặc graphite để giảm biến dạng. PEEK có độ bền cơ học cao, dùng cho vòng đỡ và chi tiết chịu tải.
+## Kim loại
+Thép không gỉ 316 và 316L dùng cho đa số ứng dụng, duplex cho môi trường clorua như nước biển. Hợp kim niken như Alloy 20, Hastelloy hoặc Inconel dùng cho axit mạnh và nhiệt độ cao, titan cho các môi trường ăn mòn đặc biệt.
+## Các khái niệm cần hiểu
+Độ cứng quyết định khả năng chống mòn, độ dẫn nhiệt giúp tản nhiệt tại mặt phớt, hệ số giãn nở ảnh hưởng đến biến dạng khi nhiệt độ thay đổi, còn giới hạn PV (áp suất nhân tốc độ trượt) cho biết tải mà cặp mặt phớt chịu được. Tính tương thích hóa học cần tra theo bảng của nhà sản xuất.
+## Cặp vật liệu phổ biến
+- SiC với carbon: phổ biến nhất, dùng cho nước, dầu và hóa chất.
+- SiC với SiC: môi chất có hạt rắn, nhưng kém chịu chạy khô.
+- Tungsten carbide với carbon hoặc SiC: áp suất cao, tải nặng.
+## Gợi ý theo môi chất
+- Nước và nước thải: SiC hoặc ceramic với carbon, gioăng EPDM.
+- Dầu và hydrocarbon: SiC với carbon, gioăng FKM.
+- Axit, kiềm và dung môi: SiC thiêu kết, gioăng FFKM hoặc PTFE.
+- Môi chất có hạt rắn: hai mặt cứng, thêm dòng xả sạch.
+## Sai lầm thường gặp
+Chọn vật liệu chỉ theo giá, bỏ qua nồng độ và nhiệt độ thật của môi chất, quên rằng chạy khô làm hỏng các cặp mặt cứng, hoặc dùng EPDM cho môi chất chứa dầu. Hãy cung cấp đầy đủ thông tin cho SNS-VN để được tư vấn vật liệu phù hợp và báo giá.`]
+];
 const ART=[
 ['product','mechanical-seals-for-pumps',`Phớt cơ khí cho bơm (mechanical seal) là giải pháp làm kín trục quay phổ biến nhất trong bơm ly tâm công nghiệp. Phớt giúp ngăn rò rỉ chất lỏng ra môi trường, giảm thất thoát sản phẩm, hạn chế mài mòn trục và bảo đảm an toàn cho nhà máy. So với bao kín dạng tết (gland packing), phớt cơ khí rò rỉ thấp hơn nhiều, tiêu tốn ít công suất hơn và ít phải bảo dưỡng hơn.
 ## Nguyên lý hoạt động của phớt cơ khí
@@ -832,10 +917,11 @@ const CSS=`:root{--b:#0b5cb5;--n:#0a2f55;--g:#f1f5f8}*{box-sizing:border-box;mar
 async function init(env){if(init.d)return;const q=s=>env.DB.prepare(s);
  await q('CREATE TABLE IF NOT EXISTS c(type TEXT,slug TEXT,vi_t TEXT,vi_b TEXT,en_t TEXT,en_b TEXT,ts INTEGER,PRIMARY KEY(type,slug))').run();
  await q('CREATE TABLE IF NOT EXISTS im(id TEXT PRIMARY KEY,ct TEXT,d TEXT)').run();
- if(!await q('SELECT 1 FROM c WHERE type=?1 AND slug=?2').bind('set','seeded').first()){let n=1;const b=[q("INSERT INTO c VALUES('set','seeded','','','','',0)")];
+ const M=new Set((await q("SELECT slug FROM c WHERE type='set' AND slug LIKE 'seeded%'").all()).results.map(r=>r.slug));
+ if(!M.has('seeded')){let n=1;const b=[q("INSERT INTO c VALUES('set','seeded','','','','',0)")];
   for(const[t,a]of Object.entries(SEED))for(const x of a){const[e,v]=x.split('|');b.push(q('INSERT OR IGNORE INTO c VALUES(?1,?2,?3,?4,?5,?6,?7)').bind(t,SL(e),v,'',e,'',n++))}await env.DB.batch(b)}
- if(!await q('SELECT 1 FROM c WHERE type=?1 AND slug=?2').bind('set','seeded2').first()){const b=[q("INSERT INTO c VALUES('set','seeded2','','','','',0)")];for(const[t,sl,x]of ART)b.push(q("UPDATE c SET vi_b=CASE WHEN COALESCE(vi_b,'')='' THEN ?1 ELSE vi_b||char(10)||char(10)||?1 END WHERE type=?2 AND slug=?3").bind(x,t,sl));await env.DB.batch(b)}
- if(!await q('SELECT 1 FROM c WHERE type=?1 AND slug=?2').bind('set','seeded3').first()){
+ if(!M.has('seeded2')){const b=[q("INSERT INTO c VALUES('set','seeded2','','','','',0)")];for(const[t,sl,x]of ART)b.push(q("UPDATE c SET vi_b=CASE WHEN COALESCE(vi_b,'')='' THEN ?1 ELSE vi_b||char(10)||char(10)||?1 END WHERE type=?2 AND slug=?3").bind(x,t,sl));await env.DB.batch(b)}
+ if(!M.has('seeded3')){
   const b=[q("INSERT INTO c VALUES('set','seeded3','','','','',0)")];let n=0;
   const im=(sl,k)=>{const id='i_'+sl.replace(/-/g,'_');b.push(q("INSERT OR REPLACE INTO im VALUES(?1,'image/svg+xml',?2)").bind(id,btoa(ILL(k,190+(n++*13)%60))));return'/img/'+id};
   for(const r of PD){const[t,sl,k,a,bu,u]=r.split('|');b.push(q("UPDATE c SET vi_b=CASE WHEN COALESCE(vi_b,'')='' THEN ?1 WHEN vi_b NOT LIKE '%## %' THEN vi_b||char(10)||char(10)||?1 ELSE vi_b END WHERE type=?2 AND slug=?3").bind(im(sl,k)+'\n\n'+a+'\n## Đặc điểm nổi bật\n'+bu.split(';').map(y=>'- '+y).join('\n')+'\n## Ứng dụng\n'+u+'\n## Tư vấn và báo giá\n'+CTA,t=='p'?'product':'industry',sl))}
@@ -843,43 +929,47 @@ async function init(env){if(init.d)return;const q=s=>env.DB.prepare(s);
   let ts=Date.now();for(const[sl,vt,et,x]of NW)b.push(q('INSERT OR IGNORE INTO c VALUES(?1,?2,?3,?4,?5,?6,?7)').bind('news',sl,vt,im(sl,'n')+'\n\n'+x,et,'',ts--));
   b.push(q("INSERT OR IGNORE INTO c VALUES('set','about','Giới thiệu công ty','','About Us','',0)"),q("UPDATE c SET vi_b=?1 WHERE type='set' AND slug='about' AND COALESCE(vi_b,'')=''").bind(im('about','n')+'\n\n'+ABOUT));
   await env.DB.batch(b)}
- if(!await q('SELECT 1 FROM c WHERE type=?1 AND slug=?2').bind('set','seeded4').first()){
+ if(!M.has('seeded4')){
   const b=[q("INSERT INTO c VALUES('set','seeded4','','','','',0)")];let n=40;
   const im=(sl,k)=>{const id='i_'+sl.replace(/-/g,'_');b.push(q("INSERT OR REPLACE INTO im VALUES(?1,'image/svg+xml',?2)").bind(id,btoa(ILL(k,190+(n++*13)%60))));return'/img/'+id};
   b.push(q("UPDATE c SET vi_b=CASE WHEN COALESCE(vi_b,'')='' THEN ?1 WHEN vi_b NOT LIKE '%## %' THEN vi_b||char(10)||char(10)||?1 ELSE vi_b END WHERE type='product' AND slug='sims'").bind(im('sims','s')+'\n\n'+SIMS));
   let ts=Date.now()+1000;for(const[sl,k,vt,et,x]of NW2)b.push(q('INSERT OR IGNORE INTO c VALUES(?1,?2,?3,?4,?5,?6,?7)').bind('news',sl,vt,im(sl,k)+'\n\n'+x,et,'',ts--));
   await env.DB.batch(b)}
- if(!await q('SELECT 1 FROM c WHERE type=?1 AND slug=?2').bind('set','seeded5').first()){
+ if(!M.has('seeded5')){
   const b=[q("INSERT INTO c VALUES('set','seeded5','','','','',0)")];let n=50;
   const im=(sl,k)=>{const id='i_'+sl.replace(/-/g,'_');b.push(q("INSERT OR REPLACE INTO im VALUES(?1,'image/svg+xml',?2)").bind(id,btoa(ILL(k,190+(n++*13)%60))));return'/img/'+id};
   let ts=Date.now()+2000;for(const[sl,k,vt,et,x]of NW3)b.push(q('INSERT OR IGNORE INTO c VALUES(?1,?2,?3,?4,?5,?6,?7)').bind('news',sl,vt,im(sl,k)+'\n\n'+x,et,'',ts--));
   await env.DB.batch(b)}
- if(!await q('SELECT 1 FROM c WHERE type=?1 AND slug=?2').bind('set','seeded6').first()){
+ if(!M.has('seeded6')){
   const b=[q("INSERT INTO c VALUES('set','seeded6','','','','',0)")];let n=60;
   const im=(sl,k)=>{const id='i_'+sl.replace(/-/g,'_');b.push(q("INSERT OR REPLACE INTO im VALUES(?1,'image/svg+xml',?2)").bind(id,btoa(ILL(k,190+(n++*13)%60))));return'/img/'+id};
   let ts=Date.now()+3000;for(const[sl,k,vt,et,x]of NW4)b.push(q('INSERT OR IGNORE INTO c VALUES(?1,?2,?3,?4,?5,?6,?7)').bind('news',sl,vt,im(sl,k)+'\n\n'+x,et,'',ts--));
   await env.DB.batch(b)}
- if(!await q('SELECT 1 FROM c WHERE type=?1 AND slug=?2').bind('set','seeded7').first()){
+ if(!M.has('seeded7')){
   const b=[q("INSERT INTO c VALUES('set','seeded7','','','','',0)")];let n=70;
   const im=(sl,k)=>{const id='i_'+sl.replace(/-/g,'_');b.push(q("INSERT OR REPLACE INTO im VALUES(?1,'image/svg+xml',?2)").bind(id,btoa(ILL(k,190+(n++*13)%60))));return'/img/'+id};
   let ts=Date.now()+4000;for(const[sl,k,vt,et,x]of NW5)b.push(q('INSERT OR IGNORE INTO c VALUES(?1,?2,?3,?4,?5,?6,?7)').bind('news',sl,vt,im(sl,k)+'\n\n'+x,et,'',ts--));
   await env.DB.batch(b)}
- if(!await q('SELECT 1 FROM c WHERE type=?1 AND slug=?2').bind('set','seeded8').first()){
+ if(!M.has('seeded8')){
   const b=[q("INSERT INTO c VALUES('set','seeded8','','','','',0)")];let n=80;
   const im=(sl,k)=>{const id='i_'+sl.replace(/-/g,'_');b.push(q("INSERT OR REPLACE INTO im VALUES(?1,'image/svg+xml',?2)").bind(id,btoa(ILL(k,190+(n++*13)%60))));return'/img/'+id};
   let ts=Date.now()+5000;for(const[sl,k,vt,et,x]of NW6)b.push(q('INSERT OR IGNORE INTO c VALUES(?1,?2,?3,?4,?5,?6,?7)').bind('news',sl,vt,im(sl,k)+'\n\n'+x,et,'',ts--));
   await env.DB.batch(b)}
- if(!await q('SELECT 1 FROM c WHERE type=?1 AND slug=?2').bind('set','seeded9').first()){
+ if(!M.has('seeded9')){
   const b=[q("INSERT INTO c VALUES('set','seeded9','','','','',0)")];
   for(const[sl,x]of IND2)b.push(q("UPDATE c SET vi_b=CASE WHEN vi_b LIKE '/img/%' THEN substr(vi_b,1,instr(vi_b,char(10))-1)||char(10)||char(10)||?1 ELSE ?1 END,en_b='' WHERE type='industry' AND slug=?2").bind(x,sl));
   await env.DB.batch(b)}
- if(!await q('SELECT 1 FROM c WHERE type=?1 AND slug=?2').bind('set','seeded10').first()){
+ if(!M.has('seeded10')){
   const b=[q("INSERT INTO c VALUES('set','seeded10','','','','',0)")];
   for(const[sl,x]of PD2)b.push(q("UPDATE c SET vi_b=CASE WHEN vi_b LIKE '/img/%' THEN substr(vi_b,1,instr(vi_b,char(10))-1)||char(10)||char(10)||?1 ELSE ?1 END,en_b='' WHERE type='product' AND slug=?2").bind(x,sl));
   await env.DB.batch(b)}
- if(!await q('SELECT 1 FROM c WHERE type=?1 AND slug=?2').bind('set','seeded11').first()){
+ if(!M.has('seeded11')){
   const b=[q("INSERT INTO c VALUES('set','seeded11','','','','',0)")];
   for(const[sl,x]of PD3)b.push(q("UPDATE c SET vi_b=CASE WHEN vi_b LIKE '/img/%' THEN substr(vi_b,1,instr(vi_b,char(10))-1)||char(10)||char(10)||?1 ELSE ?1 END,en_b='' WHERE type='product' AND slug=?2").bind(x,sl));
+  await env.DB.batch(b)}
+ if(!M.has('seeded12')){
+  const b=[q("INSERT INTO c VALUES('set','seeded12','','','','',0)")];
+  for(const[sl,x]of PD4)b.push(q("UPDATE c SET vi_b=CASE WHEN vi_b LIKE '/img/%' THEN substr(vi_b,1,instr(vi_b,char(10))-1)||char(10)||char(10)||?1 ELSE ?1 END,en_b='' WHERE type='product' AND slug=?2").bind(x,sl));
   await env.DB.batch(b)}
  init.d=1}
 const one=(env,t,s)=>env.DB.prepare('SELECT * FROM c WHERE type=?1 AND slug=?2').bind(t,s).first();
