@@ -990,6 +990,179 @@ Giảm dừng máy ngoài kế hoạch, kéo dài tuổi thọ phớt nhờ can 
 ## Nguồn tham khảo
 Tổng hợp từ thực hành kỹ thuật phổ biến về giám sát tình trạng thiết bị quay.`]
 ];
+const NY=[
+['flowserve-aquapac-ampliflow-t-boost',`Flowserve công bố hai giải pháp cho máy nén: phớt Aquapac bôi trơn bằng nước cho máy nén trục vít không dầu phục vụ hydro xanh, và bộ tăng áp khí làm kín Ampliflow T-Boost cho phớt khí khô. Thông tin dưới đây dựa trên nội dung hãng đăng công khai, kèm phần bối cảnh kỹ thuật do SNS-VN tổng hợp.
+## Vì sao hydro cần máy nén không dầu
+Hydro dùng cho pin nhiên liệu, điện tử hoặc lưu trữ năng lượng đòi hỏi độ tinh khiết rất cao. Chỉ cần một lượng dầu bôi trơn lọt vào khí cũng có thể làm nhiễm bẩn sản phẩm. Vì vậy máy nén trục vít không dầu và các phớt không dùng dầu được quan tâm.
+## Aquapac: phớt bôi trơn bằng nước
+Theo hãng, đây là phớt cơ khí bôi trơn bằng nước đầu tiên cho máy nén trục vít không dầu. Giải pháp dùng nước siêu tinh khiết thay cho dầu hoặc khí chặn, nhờ đó giữ được độ tinh khiết của hydro và hướng tới nén hydro không phát thải.
+## Ampliflow T-Boost: bảo đảm nguồn khí làm kín
+Phớt khí khô cần khí cấp sạch và có áp suất cao hơn buồng phớt. Lúc khởi động hoặc dừng máy, chênh áp tự nhiên có thể không đủ, khi đó cần bộ tăng áp. Theo hãng, T-Boost được bịt kín hoàn toàn để không rò khí, có vỏ bọc triệt dòng điện xoáy và giảm tải nhiệt nên không cần làm mát thêm.
+## Ý nghĩa với người dùng
+- Hydro đòi hỏi độ tinh khiết cao và rò rỉ cực thấp.
+- Khí làm kín đáng tin cậy là điều kiện để phớt khí khô hoạt động tốt.
+- Xu hướng chung của ngành là loại bỏ dầu và khí thải khỏi hệ thống làm kín.
+## Câu hỏi nên hỏi nhà cung cấp
+- Phạm vi áp suất, nhiệt độ và tốc độ được thử nghiệm với hydro là bao nhiêu?
+- Chất lượng nước hoặc khí cấp cần đạt tiêu chuẩn nào?
+- Có dữ liệu vận hành thực tế và tuổi thọ kỳ vọng không?
+- Hệ thống giám sát và bảo trì cần những gì?
+## Nguồn tham khảo
+Nội dung công bố của Flowserve trên mạng xã hội. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['ranh-mat-phot-khi-kho-t-groove-apg',`Với phớt không tiếp xúc, hình dạng bề mặt làm kín quyết định khả năng tạo màng khí hoặc màng chất lỏng ổn định. Bài viết tổng hợp một số công nghệ bề mặt do Flowserve công bố, kèm phần giải thích nguyên lý do SNS-VN bổ sung.
+## Nguyên lý nâng thủy động
+Khi mặt phớt có rãnh hoặc hình dạng đặc biệt quay, khí hoặc chất lỏng bị cuốn vào khe hở và tạo áp suất đẩy hai mặt tách nhau. Độ dày màng tự cân bằng: màng mỏng đi thì áp suất tăng lên đẩy mặt ra, màng dày lên thì áp suất giảm. Nhờ vậy phớt giữ được khe hở rất nhỏ mà không chạm nhau.
+## Rãnh trên mặt phớt khí khô
+Phớt khí khô Gaspac dùng một trong hai mẫu rãnh: T-Groove hai chiều hoặc Advanced Pattern Groove (APG). Theo hãng, cả hai tạo màng khí có độ cứng và khả năng giảm chấn cao, giữ màng khí ổn định ở tốc độ chậm lẫn tốc độ cao đến 250 mét mỗi giây. Rãnh hai chiều làm việc được khi trục quay theo cả hai hướng, còn rãnh một chiều thường tối ưu cho một chiều quay.
+## Mặt gợn sóng cho phớt bơm
+Phớt QBQ LZ dùng công nghệ Precision Face Topography, mặt phớt gợn sóng được cấp bằng sáng chế, nhằm giảm mạnh rò rỉ khuếch tán trong dịch vụ hydrocarbon nhẹ.
+## Phớt rào chắn khí
+Phớt GX-200 dùng mẫu rãnh APG kết hợp ống xếp kim loại, tạo lực nâng thủy tĩnh và thủy động để mặt phớt không tiếp xúc. Hãng cho biết phớt đạt phát thải sản phẩm bằng không, kể cả khi chạy khô, và lắp được vào buồng phớt tiêu chuẩn mà không cần sửa bơm.
+## Điều cần nhớ
+- Hình dạng mặt phớt ảnh hưởng trực tiếp đến phát thải và tuổi thọ.
+- Mỗi mẫu rãnh phù hợp với dải tốc độ, áp suất và môi chất khác nhau.
+- Chất lượng gia công rãnh ở cấp micromet quyết định hiệu quả.
+- Cần xác nhận thông số thực tế với nhà cung cấp.
+## Nguồn tham khảo
+Tài liệu sản phẩm của Flowserve, AIChE. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['cac-hang-phot-co-khi-lon-quy-mo-mang-luoi',`Thị trường phớt cơ khí toàn cầu có một số nhà cung cấp lớn với mạng lưới sản xuất và dịch vụ rộng. Biết quy mô của họ giúp người dùng đánh giá khả năng hỗ trợ kỹ thuật tại địa phương, nhưng quy mô chỉ là một tiêu chí trong nhiều tiêu chí.
+## Thông tin do các hãng công bố
+- John Crane: mạng lưới hơn 200 cơ sở gồm sản xuất, bán hàng và dịch vụ, cùng 13 trung tâm dịch vụ turbo tại hơn 50 quốc gia.
+- EagleBurgmann (tập đoàn Freudenberg): khoảng 250 địa điểm và 90 trung tâm dịch vụ trên thế giới.
+- AESSEAL: thành lập năm 1979, theo tài liệu giới thiệu có hơn 1.750 nhân viên và phục vụ khách hàng tại 230 địa điểm ở 104 quốc gia.
+- Flowserve: báo cáo năm 2023 nêu 35 cơ sở sản xuất, 131 trung tâm đáp ứng nhanh và khoảng 193 mẫu phớt cơ khí cùng hệ thống phớt.
+## Vì sao mạng lưới dịch vụ quan trọng
+Phớt thường hỏng vào lúc bất tiện nhất. Nhà cung cấp có kho phụ tùng, trung tâm sửa chữa và kỹ sư gần nhà máy giúp rút ngắn thời gian dừng máy. Với thiết bị quan trọng, thời gian phản hồi đôi khi quan trọng hơn chênh lệch giá mua.
+## Các tiêu chí đánh giá nhà cung cấp phớt
+- Khả năng hỗ trợ kỹ thuật và dịch vụ tại khu vực của bạn.
+- Mức độ sẵn có của phụ tùng và thời gian giao hàng.
+- Tuân thủ các tiêu chuẩn như API 682 và khả năng thử nghiệm.
+- Kinh nghiệm với môi chất và ngành của bạn.
+- Chương trình đào tạo, phân tích sự cố và tài liệu kỹ thuật.
+## Lưu ý khi đọc số liệu quy mô
+Các con số đến từ chính hãng và thời điểm công bố khác nhau, không dùng để xếp hạng trực tiếp. Hãy xác nhận thông tin hiện hành với từng nhà cung cấp.
+## Nguồn tham khảo
+Website và tài liệu giới thiệu của các hãng, báo cáo thường niên Flowserve 2023, PR Newswire. Bài viết do SNS-VN tổng hợp; tên thương hiệu thuộc về chủ sở hữu.`],
+['john-crane-50-nam-phot-khi-kho',`Tháng 1/2026, John Crane, doanh nghiệp thuộc Smiths Group plc, thông báo kỷ niệm 50 năm kể từ bước đột phá làm thay đổi cách làm kín máy nén khí. Cột mốc này cho thấy vì sao phớt khí khô đã trở thành lựa chọn phổ biến cho máy nén ly tâm trong dầu khí và hóa dầu.
+## Điều gì làm phớt khí khô khác biệt
+Thay vì dùng dầu làm kín như hệ thống truyền thống, phớt khí khô dùng một màng khí cực mỏng giữa hai mặt phớt. Các rãnh xoắn trên mặt quay tạo lực nâng nên hai mặt không chạm nhau khi máy chạy.
+## Cấu tạo cơ bản
+Phớt gồm vòng quay có rãnh, vòng tĩnh, lò xo ép hai vòng lại khi máy dừng và các gioăng phụ. Nhiều máy dùng cấu hình tandem gồm phớt chính và phớt dự phòng, cùng phớt ngăn cách bảo vệ ổ trục.
+- Ma sát thấp, ít mài mòn.
+- Lượng rò rỉ nhỏ và dễ kiểm soát.
+- Không cần hệ thống dầu làm kín phức tạp.
+## Vì sao cột mốc đáng chú ý
+Việc một công nghệ làm kín tiếp tục được cải tiến suốt nửa thế kỷ cho thấy nhu cầu về độ tin cậy và giảm phát thải luôn hiện hữu. Các cải tiến sau này tập trung vào hình dạng rãnh, vật liệu mặt phớt, hệ thống giám sát và khả năng chịu điều kiện khắc nghiệt hơn.
+## Ý nghĩa với người dùng
+Khi nâng cấp máy nén cũ từ phớt dầu sang phớt khí khô, cần đánh giá kỹ chất lượng khí cấp, hệ thống hỗ trợ, không gian lắp đặt và điều kiện vận hành. Phớt khí khô không phải giải pháp cho mọi máy nén, nhưng với máy nén ly tâm áp suất cao thì thường là lựa chọn ưu tiên.
+## Nguồn tham khảo
+World Pipelines (22/01/2026). Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['john-crane-type-8628vl-duong-ong-ethane',`John Crane giới thiệu phớt cơ khí Type 8628VL dành cho các đường ống dẫn ethane và ethylene, nơi áp suất và nhiệt độ thay đổi liên tục trong quá trình vận chuyển. Bài viết nêu thông tin hãng công bố và bối cảnh kỹ thuật để dễ hiểu hơn.
+## Thách thức của đường ống ethane
+Lưu chất trong đường ống có thể chuyển pha giữa lỏng, hơi và trạng thái siêu tới hạn. Khi áp suất giảm hoặc nhiệt độ tăng, lưu chất có thể bốc hơi ngay tại mặt phớt, làm màng làm kín mất ổn định và thường gây hỏng các phớt thông thường.
+## Vì sao chuyển pha gây khó
+Phớt tiếp xúc hoặc phớt lai dựa vào màng chất lỏng để bôi trơn. Khi chất lỏng bốc hơi, màng mỏng đi hoặc biến mất, mặt phớt tiếp xúc khô và nóng lên nhanh. Phớt không tiếp xúc dùng rãnh tạo lực nâng nên ít phụ thuộc vào pha của lưu chất hơn.
+## Giải pháp của Type 8628VL
+Theo nhà sản xuất, phớt dùng công nghệ rãnh xoắn không tiếp xúc với hai cặp mặt phớt bố trí kiểu tandem. Giám đốc công nghệ của hãng nhấn mạnh rằng, khác với phớt lai hoặc phớt tiếp xúc, thiết kế này giữ được trạng thái không tiếp xúc ngay cả khi lưu chất đổi pha nhanh. Hãng cho biết giải pháp giúp tăng độ tin cậy, hiệu quả vận hành và khả năng tuân thủ quy định môi trường.
+## Bài học cho người dùng
+- Với lưu chất dễ đổi pha, nên ưu tiên cấu hình không tiếp xúc.
+- Cần đánh giá toàn bộ dải áp suất và nhiệt độ vận hành, không chỉ điểm thiết kế.
+- Hệ thống phụ trợ và giám sát phải đi kèm phớt để bảo đảm hiệu quả.
+- Cần tính đến các chế độ khởi động, dừng máy và xả áp.
+## Nguồn tham khảo
+The Machine Maker, PR Newswire. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['john-crane-type-93ax-phot-ngan-cach',`Tháng 6/2025, John Crane công bố phớt ngăn cách đồng trục Type 93AX, giải pháp làm kín khí khô thế hệ mới nhằm giảm phát thải, tăng độ tin cậy và hạ chi phí vận hành.
+## Phớt ngăn cách dùng để làm gì
+Trong hệ thống phớt khí khô, phớt ngăn cách nằm giữa phớt khí và ổ trục. Nhiệm vụ của nó là ngăn khí công nghệ rò sang khoang ổ trục và ngăn dầu bôi trơn lẫn vào phớt khí, vì chỉ một lượng dầu nhỏ cũng đủ làm bẩn mặt phớt khí.
+## Các kiểu phớt ngăn cách
+Kiểu mê cung đơn giản nhưng có lưu lượng rò lớn hơn. Kiểu vòng carbon phân đoạn kín hơn nhưng có tiếp xúc nhẹ. Kiểu phớt khí khô đồng trục không tiếp xúc có rò rỉ rất thấp và ít mài mòn, và Type 93AX thuộc nhóm thứ ba này.
+## Điểm đáng chú ý của Type 93AX
+Theo hãng, thiết kế an toàn sự cố cho phép phớt vẫn hoạt động ngay cả khi xảy ra nhiều sự cố. Phớt tương thích với dòng phớt khí khô của John Crane và được hỗ trợ bởi mạng lưới hơn 200 cơ sở sản xuất, bán hàng và dịch vụ cùng 13 trung tâm dịch vụ turbo tại hơn 50 quốc gia.
+## Điều người dùng nên cân nhắc
+- Đánh giá yêu cầu an toàn: khí độc hại hoặc dễ cháy cần cấu hình ngăn cách đáng tin cậy.
+- Kiểm tra tính tương thích khi thay thế phớt cũ.
+- Bảo đảm khí ngăn cách sạch và đúng áp suất.
+- Theo dõi lưu lượng khí ngăn cách để phát hiện sớm suy giảm.
+## Nguồn tham khảo
+T&D India (17/06/2025), PR Newswire. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['aesseal-bai-hoc-thay-phot-giam-chi-phi',`AESSEAL công bố nhiều trường hợp nâng cấp phớt cho thấy việc chọn đúng cấu hình có thể giảm đáng kể chi phí bảo trì. Đây là số liệu do nhà sản xuất công bố, kết quả thực tế sẽ khác nhau tùy điều kiện từng nhà máy.
+## Một số trường hợp được công bố
+- Một công ty hóa dầu loại bỏ sự cố phớt và tiết kiệm hơn 14.000 bảng Anh cho mỗi bơm sau khi dùng phớt đơn CAPI A.
+- Nhà máy đường Tongaat Hulett dùng phớt cartridge Convertor II và vận hành liên tục 17 năm không phải thay.
+- Nhà máy polyethylene dùng phớt MagTecta cho quạt thổi, tăng độ tin cậy gấp bốn lần và tiết kiệm 144.000 euro chi phí bảo trì trong hơn 30 tháng.
+- Một nhà máy lọc dầu ở Canada dùng phớt đẩy API đơn và vận hành ổn định 38 tháng, tiết kiệm hơn 300.000 đô la Canada.
+## Tổng chi phí sở hữu quan trọng hơn giá mua
+Chi phí của một phớt gồm giá mua, nhân công thay thế, thời gian dừng máy, sản phẩm thất thoát, nước làm mát và chi phí xử lý môi trường. Phớt rẻ hỏng nhiều lần thường đắt hơn phớt tốt hơn dùng lâu.
+## Rút ra điều gì
+Phần lớn khoản tiết kiệm đến từ việc tìm đúng nguyên nhân hỏng, chọn đúng loại phớt cho môi chất và điều kiện vận hành, rồi lắp đặt đúng quy trình. Phớt cartridge giúp giảm sai sót khi lắp, còn chọn cấu hình đơn giản hơn khi điều kiện cho phép giúp giảm chi phí và hệ thống phụ trợ.
+## Cách tự tính hiệu quả nâng cấp
+- Thống kê số lần thay phớt và chi phí mỗi lần trong vài năm.
+- Cộng chi phí dừng máy và thất thoát sản phẩm.
+- So với chi phí phớt mới và thời gian hoàn vốn.
+## Nguồn tham khảo
+Mục tin tức của AESSEAL. Bài viết do SNS-VN tổng hợp và diễn giải lại; tên thương hiệu thuộc về chủ sở hữu.`],
+['cach-chon-phot-co-khi-cho-bom',`Chọn đúng phớt cơ khí cho bơm giúp giảm rò rỉ, tăng tuổi thọ thiết bị và tiết kiệm chi phí bảo trì. Chọn sai có thể khiến phớt hỏng chỉ sau vài ngày. Trước khi đặt hàng, bạn nên xem xét năm yếu tố sau.
+## Yếu tố 1: Môi chất
+Cần biết tên và nồng độ môi chất, tính ăn mòn, độc hại, dễ cháy, độ nhớt, khả năng kết tinh và hàm lượng hạt rắn. Môi chất quyết định vật liệu mặt phớt, gioăng, kim loại và cả cấu hình phớt đơn hay đôi. Môi chất nguy hiểm hơn đòi hỏi cấu hình kín hơn.
+## Yếu tố 2: Nhiệt độ và áp suất
+Cần nắm nhiệt độ và áp suất tại buồng phớt, không chỉ ở đường ống. Nhiệt độ cao làm giới hạn vật liệu gioăng và dễ gây bay hơi tại mặt phớt, cần làm mát hoặc dùng phớt ống xếp kim loại. Áp suất cao làm biến dạng mặt phớt và đòi hỏi phớt cân bằng.
+## Yếu tố 3: Bơm, trục và tốc độ
+- Kiểu bơm: ly tâm, trục đứng, nhiều tầng hay bơm đặc biệt.
+- Kích thước trục và kích thước buồng phớt hiện có.
+- Tốc độ quay, vì tốc độ cao làm tăng nhiệt sinh ra tại mặt phớt.
+- Độ đảo trục và rung động của bơm.
+## Yếu tố 4: Tiêu chuẩn và phát thải
+Trong dầu khí và hóa dầu thường áp dụng API 682. Yêu cầu giới hạn phát thải sẽ định hướng việc chọn phớt đôi hoặc phớt có khí chặn. Cần xác định sớm các quy định áp dụng.
+## Yếu tố 5: Lắp đặt và bảo trì
+Phớt dạng cartridge giúp giảm sai sót khi lắp. Phớt chia đôi hợp với thiết bị lớn khó tháo. Cần cân nhắc nhân lực bảo trì, phụ tùng sẵn có và thời gian dừng máy cho phép.
+## Bảng thông tin nên chuẩn bị
+- Môi chất, nồng độ, độ nhớt, hạt rắn.
+- Nhiệt độ và áp suất buồng phớt, áp suất hút.
+- Bản vẽ bơm, kích thước trục và buồng phớt.
+- Tiêu chuẩn và yêu cầu phát thải.
+## Lời khuyên
+Hãy cung cấp bản vẽ hoặc thông số bơm đầy đủ cho nhà cung cấp để được tư vấn cấu hình phớt, vật liệu và sơ đồ phụ trợ phù hợp. Liên hệ SNS-VN để được hỗ trợ.`],
+['phot-khi-kho-la-gi',`Phớt khí khô là phớt không tiếp xúc, dùng màng khí cực mỏng giữa hai mặt phớt để làm kín trục máy nén. Do không mài mòn khi vận hành, phớt có ma sát thấp, tuổi thọ dài và rò rỉ rất nhỏ. Bài viết giải thích cách hoạt động, ưu nhược điểm và khi nào nên dùng.
+## Cấu tạo cơ bản
+Phớt gồm vòng quay gắn với trục, trên mặt vòng có các rãnh xoắn rất nhỏ, vòng tĩnh gắn với thân máy, lò xo ép hai vòng lại và các gioăng phụ. Khi máy dừng, lò xo giữ hai mặt tiếp xúc để làm kín.
+## Cách hoạt động
+Khi trục quay, rãnh bơm khí vào khe hở và tạo lực nâng đẩy hai mặt phớt tách nhau, khe hở chỉ cỡ vài micromet. Khe hở này tự điều chỉnh để cân bằng lực, nên phớt không tiếp xúc khi vận hành bình thường.
+## Các cấu hình phổ biến
+- Phớt đơn: cho khí sạch, áp suất thấp.
+- Phớt tandem: phớt chính và phớt dự phòng, phổ biến nhất với khí hydrocarbon.
+- Phớt đôi: dùng khí chặn như nitơ khi không được phép rò khí công nghệ.
+## Khi nào nên dùng phớt khí khô
+- Máy nén khí hydrocarbon, hydro, CO2 hoặc khí tổng hợp.
+- Khi cần giảm rò rỉ và phát thải.
+- Khi muốn bỏ hệ thống dầu làm kín phức tạp.
+## Hệ thống hỗ trợ
+Phớt cần bảng điều khiển khí để lọc, điều áp và đo lưu lượng khí cấp. Chất lượng khí cấp là yếu tố quyết định độ tin cậy.
+## Hạn chế cần biết
+Phớt nhạy với hạt rắn và chất lỏng lọt vào khe hở, cần khí sạch và khô, và cần chú ý lúc khởi động và dừng máy. Chi phí đầu tư và hệ thống hỗ trợ cao hơn phớt thông thường.
+## Điều kiện để phớt hoạt động tốt
+Khí cấp phải sạch, khô và có áp suất cao hơn buồng phớt. Hệ thống hỗ trợ cần được thiết kế đúng theo điều kiện máy nén. Liên hệ SNS-VN để được tư vấn.`],
+['bao-tri-phot-co-khi',`Phần lớn sự cố phớt cơ khí đến từ vận hành và lắp đặt chứ không phải lỗi sản xuất. Phát hiện sớm dấu hiệu bất thường giúp tránh hỏng hóc và dừng máy ngoài kế hoạch. Bài viết tóm tắt các dấu hiệu cảnh báo và thực hành bảo trì giúp kéo dài tuổi thọ phớt.
+## Dấu hiệu cảnh báo
+- Rò rỉ tăng dần hoặc có vệt ẩm quanh phớt.
+- Tiếng kêu, rung động hoặc nhiệt độ tăng bất thường.
+- Cặn bám hoặc mài mòn tại mặt phớt.
+- Mức chất lỏng chặn hoặc đệm giảm nhanh.
+- Áp suất hệ thống phụ trợ dao động.
+## Phân biệt rò rỉ bình thường và bất thường
+Một lượng nhỏ hơi ẩm trong thời gian chạy rà là bình thường. Rò rỉ liên tục tăng dần, có giọt chảy hoặc kèm tiếng kêu là dấu hiệu cần kiểm tra. Với môi chất nguy hiểm, mọi rò rỉ đều phải xử lý ngay.
+## Cách kéo dài tuổi thọ phớt
+- Không để bơm chạy khô.
+- Căn chỉnh trục và kiểm tra rung định kỳ.
+- Lắp đặt đúng quy trình, dùng phớt cartridge khi có thể.
+- Duy trì hệ thống xả và làm mát phớt hoạt động tốt.
+- Vận hành bơm trong vùng lưu lượng thiết kế.
+## Bảo trì phòng ngừa
+Lập lịch kiểm tra định kỳ cho hệ thống phụ trợ, bình chứa và đường ống, kiểm tra mức và áp suất chất lỏng chặn, thay lõi lọc và kiểm tra gioăng theo khuyến cáo của nhà sản xuất.
+## Lưu trữ phụ tùng
+Giữ phớt trong bao bì gốc, nơi khô mát, tránh ánh nắng và hóa chất. Gioăng đàn hồi có hạn dùng nên cần luân chuyển kho.
+## Theo dõi hiệu quả
+Ghi lại tuổi thọ từng phớt, nguyên nhân hỏng và chi phí. Chỉ số như thời gian trung bình giữa hai lần hỏng giúp đánh giá hiệu quả và định hướng nâng cấp. Liên hệ SNS-VN nếu cần hỗ trợ kỹ thuật.`]
+];
 const ART=[
 ['product','mechanical-seals-for-pumps',`Phớt cơ khí cho bơm (mechanical seal) là giải pháp làm kín trục quay phổ biến nhất trong bơm ly tâm công nghiệp. Phớt giúp ngăn rò rỉ chất lỏng ra môi trường, giảm thất thoát sản phẩm, hạn chế mài mòn trục và bảo đảm an toàn cho nhà máy. So với bao kín dạng tết (gland packing), phớt cơ khí rò rỉ thấp hơn nhiều, tiêu tốn ít công suất hơn và ít phải bảo dưỡng hơn.
 ## Nguyên lý hoạt động của phớt cơ khí
@@ -1138,6 +1311,10 @@ async function init(env){if(init.d)return;const q=s=>env.DB.prepare(s);
  if(!M.has('seeded13')){
   const b=[q("INSERT INTO c VALUES('set','seeded13','','','','',0)")];
   for(const[sl,x]of NX)b.push(q("UPDATE c SET vi_b=CASE WHEN vi_b LIKE '/img/%' THEN substr(vi_b,1,instr(vi_b,char(10))-1)||char(10)||char(10)||?1 ELSE ?1 END,en_b='' WHERE type='news' AND slug=?2").bind(x,sl));
+  await env.DB.batch(b)}
+ if(!M.has('seeded14')){
+  const b=[q("INSERT INTO c VALUES('set','seeded14','','','','',0)")];
+  for(const[sl,x]of NY)b.push(q("UPDATE c SET vi_b=CASE WHEN vi_b LIKE '/img/%' THEN substr(vi_b,1,instr(vi_b,char(10))-1)||char(10)||char(10)||?1 ELSE ?1 END,en_b='' WHERE type='news' AND slug=?2").bind(x,sl));
   await env.DB.batch(b)}
  init.d=1}
 const one=(env,t,s)=>env.DB.prepare('SELECT * FROM c WHERE type=?1 AND slug=?2').bind(t,s).first();
