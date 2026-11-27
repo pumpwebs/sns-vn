@@ -1323,7 +1323,7 @@ async function init(env){if(init.d)return;const q=s=>env.DB.prepare(s);
  await q('CREATE TABLE IF NOT EXISTS c(type TEXT,slug TEXT,vi_t TEXT,vi_b TEXT,en_t TEXT,en_b TEXT,ts INTEGER,PRIMARY KEY(type,slug))').run();
  await q('CREATE TABLE IF NOT EXISTS im(id TEXT PRIMARY KEY,ct TEXT,d TEXT)').run();
  await q('CREATE TABLE IF NOT EXISTS msg(id INTEGER PRIMARY KEY AUTOINCREMENT,ts INTEGER,name TEXT,phone TEXT,email TEXT,company TEXT,body TEXT,seen INTEGER DEFAULT 0)').run();
- const M=new Set((await q("SELECT slug FROM c WHERE type='set' AND slug LIKE 'seeded%'").all()).results.map(r=>r.slug));
+ const M=new Set((await q("SELECT slug FROM c WHERE type='set' AND (slug LIKE 'seeded%' OR slug GLOB 'c[0-9]*')").all()).results.map(r=>r.slug));
  if(!M.has('seeded')){let n=1;const b=[q("INSERT INTO c VALUES('set','seeded','','','','',0)")];
   for(const[t,a]of Object.entries(SEED))for(const x of a){const[e,v]=x.split('|');b.push(q('INSERT OR IGNORE INTO c VALUES(?1,?2,?3,?4,?5,?6,?7)').bind(t,SL(e),v,'',e,'',n++))}await env.DB.batch(b)}
  
@@ -1421,17 +1421,17 @@ async function init(env){if(init.d)return;const q=s=>env.DB.prepare(s);
   await env.DB.batch(bContent);
  }
  /*CLOOP-BEGIN*/
-  for(const[cid,cb]of Object.entries(CBATCH)){if(M.has(cid))continue;
-   const bc=[q("INSERT INTO c VALUES('set',?1,'','','','',0)").bind(cid)];
+  for(const[cid,cb]of Object.entries(CBATCH)){if(M.has(cid))continue;try{
+   const bc=[q("INSERT OR IGNORE INTO c VALUES('set',?1,'','','','',0)").bind(cid)];
    for(const ty of['product','news','industry'])for(const[sl,tx]of Object.entries(cb[ty]||{})){const t=Array.isArray(tx)?tx.join('\n'):tx;
     bc.push(q("UPDATE c SET vi_b=CASE WHEN vi_b LIKE '/img/%' THEN substr(vi_b,1,instr(vi_b||char(10),char(10))-1)||char(10)||char(10)||?1 ELSE ?1 END,en_b='' WHERE type=?2 AND slug=?3").bind(t,ty,sl))}
-   await env.DB.batch(bc)}
+   await env.DB.batch(bc)}catch(e){console.error('CBATCH '+cid+' failed: '+(e&&e.message))}}
   /*CLOOP-END*/
 init.d=1}
 const one=(env,t,s)=>env.DB.prepare('SELECT * FROM c WHERE type=?1 AND slug=?2').bind(t,s).first();
 
 export const onRequest=async(ctx)=>{const{request,env}=ctx,waitUntil=p=>{try{ctx.waitUntil(p)}catch(e){}};
- if(!env.DB)return H('Chưa gắn database D1 với tên biến DB.',500);await init(env);
+ if(!env.DB)return H('Chưa gắn database D1 với tên biến DB.',500);try{await init(env)}catch(e){console.error('init failed: '+(e&&e.message))}
  const u=new URL(request.url);let s=u.origin;let p=u.pathname.replace(/\/+$/,'')||'/';
  if(p.startsWith('/admin')){const ra=await admin(request,env,u,p,waitUntil);try{ra.headers.set('X-Robots-Tag','noindex, nofollow')}catch(e){}return ra}
  if(p.startsWith('/img/')){const r=await env.DB.prepare('SELECT * FROM im WHERE id=?1').bind(p.slice(5)).first();return r?new Response(Uint8Array.from(atob(r.d),c=>c.charCodeAt(0)),{headers:{'content-type':r.ct,'cache-control':'public,max-age=31536000,immutable'}}):H('',404)}
